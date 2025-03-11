@@ -1,0 +1,15 @@
+{
+  "name": "pixelware",
+  "version": "1.0.0",
+  "description": "Ecommerce using microservices",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}

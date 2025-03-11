@@ -1,0 +1,2632 @@
+{
+  "products": [
+    {
+      "name": "AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor",
+      "description": "The AMD Ryzen 5 5600X 3.7 GHz 6-Core AM4 Processor is a powerful 6-core processor with 12 threads for excellent performance. It has a base clock speed of 3.7 GHz and a max boost clock speed of 4.6 GHz.",
+      "price": 299.99,
+      "stock": 10,
+      "images": [
+        "https://m.media-amazon.com/images/I/31+mOYoQM6L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31OlytR583L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51Cr3szVfuL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg"
+      ],
+      "category": "CPU",
+      "brand": "AMD"
+    },
+    {
+      "name": "Intel Core i9-10900K 3.7 GHz 10-Core Processor",
+      "description": "The Intel Core i9-10900K 3.7 GHz 10-Core LGA 1200 Processor is a powerful 10-core processor with 20 threads for excellent performance. It has a base clock speed of 3.7 GHz and a max boost clock speed of 5.3 GHz.",
+      "price": 529.99,
+      "stock": 5,
+      "images": [
+        "https://m.media-amazon.com/images/I/41grpwhp8hL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41y91XADvDL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41+fj+iBn5L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51v-Nm7FIDL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51hXUc3ZziL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg"
+      ],
+      "category": "CPU",
+      "brand": "Intel"
+    },
+    {
+      "name": "NVIDIA GeForce RTX 3080 10 GB Founders Edition Video Card",
+      "description": "The NVIDIA GeForce RTX 3080 10 GB Founders Edition Video Card is a powerful video card with 10 GB of GDDR6X memory for excellent performance. It has a base clock speed of 1440 MHz and a boost clock speed of 1710 MHz.",
+      "price": 699.99,
+      "stock": 3,
+      "images": [
+        "https://m.media-amazon.com/images/I/41G0-twEyLL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51aihdcn3rL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41TpdnH9VsL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/418ytkKMKbL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/515RQwyWq6L._AC_US40_.jpg"
+      ],
+      "category": "GPU",
+      "brand": "NVIDIA"
+    },
+    {
+      "name": "AMD Radeon RX 6800 XT 16 GB Video Card",
+      "description": "The AMD Radeon RX 6800 XT 16 GB Video Card is a powerful video card with 16 GB of GDDR6 memory for excellent performance. It has a base clock speed of 1825 MHz and a boost clock speed of 2250 MHz.",
+      "price": 649.99,
+      "stock": 7,
+      "images": [
+        "https://m.media-amazon.com/images/I/41G0-twEyLL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51aihdcn3rL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41TpdnH9VsL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/418ytkKMKbL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/515RQwyWq6L._AC_US40_.jpg"
+      ],
+      "brand": "AMD",
+      "category": "GPU"
+    },
+    {
+      "name": "Corsair Vengeance RGB Pro 32 GB (2 x 16 GB) DDR4-3200 CL16 Memory",
+      "description": "The Corsair Vengeance RGB Pro 32 GB (2 x 16 GB) DDR4-3200 CL16 Memory is a high-performance memory kit with 32 GB of DDR4 memory for excellent performance. It has a clock speed of 3200 MHz and a CAS latency of 16.",
+      "price": 139.99,
+      "stock": 15,
+      "images": [
+        "https://m.media-amazon.com/images/I/41z1cgIi0IL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51p2fjkA4VL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51falu7IY1L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51uZPgGqCvL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/515-O4Fpy9L._AC_US40_.jpg"
+      ],
+      "category": "Memory",
+      "brand": "Corsair"
+    },
+    {
+      "name": "G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL16 Memory",
+      "description": "The G.Skill Ripjaws V 16 GB (2 x 8 GB) DDR4-3600 CL16 Memory is a high-performance memory kit with 16 GB of DDR4 memory for excellent performance. It has a clock speed of 3600 MHz and a CAS latency of 16.",
+      "price": 79.99,
+      "stock": 20,
+      "images": [
+        "https://m.media-amazon.com/images/I/410oydc3yrL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51Y+OhcDvyL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51mHeRNEcPL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51tML1HCYqL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/515w0d7ukfL._AC_US40_.jpg"
+      ],
+      "category": "Memory",
+      "brand": "G.Skill"
+    },
+    {
+      "name": "Samsung 970 Evo 1 TB M.2-2280 NVME Solid State Drive",
+      "description": "The Samsung 970 Evo 1 TB M.2-2280 NVME Solid State Drive is a high-performance SSD with 1 TB of storage for excellent performance. It has read speeds of up to 3500 MB/s and write speeds of up to 2500 MB/s.",
+      "price": 149.99,
+      "stock": 10,
+      "images": [
+        "https://m.media-amazon.com/images/I/41jCYeGpShL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51-Og-FVcbL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51O0vbmW9KL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51DWvRrH4vL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41+kBu7828L._AC_US40_.jpg"
+      ],
+      "category": "Storage",
+      "brand": "Samsung"
+    },
+    {
+      "name": "Crucial P2 500 GB M.2-2280 NVME Solid State Drive",
+      "description": "The Crucial P2 500 GB M.2-2280 NVME Solid State Drive is a high-performance SSD with 500 GB of storage for excellent performance. It has read speeds of up to 2400 MB/s and write speeds of up to 1800 MB/s.",
+      "price": 59.99,
+      "stock": 15,
+      "images": [
+        "https://m.media-amazon.com/images/I/31JeF0qtdsL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/518jTNxRrtL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51Xf+egnCrL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/5175Fh3CK7L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/515Mlqz-kqL._AC_US40_.jpg"
+      ],
+      "category": "Storage",
+      "brand": "Crucial"
+    },
+    {
+      "name": "NZXT H510 ATX Mid Tower Case",
+      "description": "The NZXT H510 ATX Mid Tower Case is a high-performance case with a sleek design and excellent airflow. It has a tempered glass side panel and a cable management system for easy installation.",
+      "price": 69.99,
+      "stock": 10,
+      "images": [
+        "https://m.media-amazon.com/images/I/419hCVITaxL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41ZSRmzX6SL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51efYIFyP0L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41rcmVDchsL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51JJ4eWPMcL._AC_US40_.jpg"
+      ],
+      "category": "Case",
+      "brand": "NZXT"
+    },
+    {
+      "name": "Corsair RMx (2018) 850 W 80+ Gold Certified Fully Modular ATX Power Supply",
+      "description": "The Corsair RMx (2018) 850 W 80+ Gold Certified Fully Modular ATX Power Supply is a high-performance power supply with 850 W of power for excellent performance. It has an 80+ Gold efficiency rating and a fully modular design for easy cable management.",
+      "price": 139.99,
+      "stock": 5,
+      "images": [
+        "https://m.media-amazon.com/images/I/41ZqPIhHd6L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/413LxJy3noL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51VuyF6CEyL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51L7ZOAOicL._AC_US40_.jpg"
+      ],
+      "category": "Power Supply",
+      "brand": "Corsair"
+    },
+    {
+      "name": "Asus TUF Gaming VG27WQ1B 27.0\" 2560x1440 165 Hz Monitor",
+      "description": "The Asus TUF Gaming VG27WQ1B 27.0\" 2560x1440 165 Hz Monitor is a high-performance monitor with a 2560x1440 resolution and a 165 Hz refresh rate for excellent performance. It has a 1 ms response time and supports AMD FreeSync technology for smooth gameplay.",
+      "price": 299.99,
+      "stock": 30,
+      "images": [
+        "https://m.media-amazon.com/images/I/41rLTbzOeAL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51dWt+NjreL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51Srm6eyikL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/418bpHSHAjL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41+ffZ-cYML._AC_US40_.jpg"
+      ],
+      "category": "Monitor",
+      "brand": "Asus"
+    },
+    {
+      "name": "Logitech G Pro X Superlight Wireless Gaming Mouse",
+      "description": "The Logitech G Pro X Superlight Wireless Gaming Mouse is a high-performance gaming mouse with a lightweight design and excellent battery life. It has a 25,600 DPI sensor and supports Logitech G HUB software for customization.",
+      "price": 149.99,
+      "stock": 70,
+      "images": [
+        "https://m.media-amazon.com/images/I/412XVsqTz2L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31NZfLcelLL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41wa9K9pyoL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41JnQDw5VOL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51Ki01xlUqL._AC_US40_.jpg"
+      ],
+      "category": "Mouse",
+      "brand": "Logitech"
+    },
+    {
+      "name": "Razer BlackWidow V3 Pro Wireless Mechanical Gaming Keyboard",
+      "description": "The Razer BlackWidow V3 Pro Wireless Mechanical Gaming Keyboard is a high-performance gaming keyboard with a wireless design and excellent battery life. It has Razer Green mechanical switches and customizable RGB lighting.",
+      "price": 229.99,
+      "stock": 8,
+      "images": [
+        "https://m.media-amazon.com/images/I/41vu5yPY0tL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41Z9UziNqLL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41BTi9cHeQL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51Aqk524azL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41jfPbWUhKL._AC_US40_.jpg"
+      ],
+      "category": "Keyboard",
+      "brand": "Razer"
+    },
+    {
+      "name": "HyperX Cloud II 7.1 Channel Headset",
+      "description": "The HyperX Cloud II 7.1 Channel Headset is a high-performance gaming headset with 7.1 channel surround sound and excellent comfort. It has a detachable noise-cancelling microphone and memory foam ear cushions for long gaming sessions.",
+      "price": 99.99,
+      "stock": 25,
+      "images": [
+        "https://m.media-amazon.com/images/I/31uPVahywKL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/411TJSb-VeL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/417H5gwL4KL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41npOaI4mJL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/412yn0iKqKL._AC_US40_.jpg"
+      ],
+      "category": "Headset",
+      "brand": "HyperX"
+    },
+    {
+      "name": "Elgato Stream Deck Mini",
+      "description": "The Elgato Stream Deck Mini is a high-performance streaming controller with 6 customizable LCD keys for easy control of your stream. It has direct integration with popular streaming software and supports custom profiles for different applications.",
+      "price": 89.99,
+      "stock": 1,
+      "images": [
+        "https://m.media-amazon.com/images/I/415m9-P9lmL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51abwfnIMlL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41sS9SC00fL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51TvUfZxSHL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/5105LpkEY3L._AC_US40_.jpg"
+      ],
+      "category": "Streaming",
+      "brand": "Elgato"
+    },
+    {
+      "name": "Blue Yeti USB Microphone",
+      "description": "The Blue Yeti USB Microphone is a high-performance microphone with 4 pickup patterns for excellent sound quality. It has a built-in headphone amplifier and volume control for easy monitoring.",
+      "price": 129.99,
+      "stock": 10,
+      "images": [
+        "https://m.media-amazon.com/images/I/31pTI1L19nL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41noGFr7idL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41YQEofuzvL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51KWHhpp+oL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51iaeJId7rL._AC_US40_.jpg"
+      ],
+      "category": "Microphone",
+      "brand": "Blue"
+    },
+    {
+      "name": "Sony Alpha a6400 Mirrorless Camera",
+      "description": "The Sony Alpha a6400 Mirrorless Camera is a high-performance camera with a 24.2 MP APS-C sensor for excellent image quality. It has a 3-inch tilting touchscreen and supports 4K video recording.",
+      "price": 899.99,
+      "stock": 10,
+      "images": [
+        "https://m.media-amazon.com/images/I/41GDuvVk4kL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41lqcKG8pJL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41zMVOZk-UL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/314ssOfeV4L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41kMag0iIML._AC_US40_.jpg"
+      ],
+      "category": "Camera",
+      "brand": "Sony"
+    },
+    {
+      "name": "Samsung Galaxy S21 Ultra 5G",
+      "description": "The Samsung Galaxy S21 Ultra 5G is a high-performance smartphone with a 6.8-inch Dynamic AMOLED display and a 108 MP camera for excellent image quality. It has a 5000 mAh battery and supports 5G connectivity for fast data speeds.",
+      "price": 1199.99,
+      "stock": 5,
+      "images": [
+        "https://m.media-amazon.com/images/I/41tUAd+6UKL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51aUya5hHTL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41tITZz7M9L._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41endkxiXKL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51FLFwixp6L._AC_SR38,50_.jpg"
+      ],
+      "category": "Smartphone",
+      "brand": "Samsung"
+    },
+    {
+      "name": "Apple iPhone 12 Pro Max",
+      "description": "The Apple iPhone 12 Pro Max is a high-performance smartphone with a 6.7-inch Super Retina XDR display and a triple-camera system for excellent image quality. It has a 3687 mAh battery and supports 5G connectivity for fast data speeds.",
+      "price": 1099.99,
+      "stock": 12,
+      "images": [
+        "https://m.media-amazon.com/images/I/21C5PpQ0MIL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51Jc-vXLJlL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41x18t2Ae8L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51cbZ9dDajL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51Xn1bIncvL._AC_US40_.jpg"
+      ],
+      "category": "Smartphone",
+      "brand": "Apple"
+    },
+    {
+      "name": "Apple MacBook Pro 13-inch",
+      "description": "The Apple MacBook Pro 13-inch is a high-performance laptop with a 13-inch Retina display and an Apple M1 chip for excellent performance. It has a 256 GB SSD and up to 20 hours of battery life for all-day use.",
+      "price": 1299.99,
+      "stock": 8,
+      "images": [
+        "https://m.media-amazon.com/images/I/518XDWAYenL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41FLqLXZGGL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31va+qfLqDL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31tHdWrFz2L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/512T5vi4pKL._AC_US40_.jpg"
+      ],
+      "category": "Laptop",
+      "brand": "Apple"
+    },
+    {
+      "name": "Dell XPS 13",
+      "description": "The Dell XPS 13 is a high-performance laptop with a 13.4-inch InfinityEdge display and an Intel Core i7 processor for excellent performance. It has a 512 GB SSD and up to 19 hours of battery life for all-day use.",
+      "price": 1199.99,
+      "stock": 10,
+      "images": [
+        "https://m.media-amazon.com/images/I/41GXhWNP7hL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41ZG7haxJFL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/416lcYh9jEL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41YEOLsX9pL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41LRUn0lxfL._AC_US40_.jpg"
+      ],
+      "category": "Laptop",
+      "brand": "Dell"
+    },
+    {
+      "name": "Lenovo Legion 5",
+      "description": "The Lenovo Legion 5 is a high-performance gaming laptop with a 15.6-inch FHD display and an AMD Ryzen 7 processor for excellent performance. It has a 512 GB SSD and NVIDIA GeForce RTX 2060 graphics for smooth gameplay.",
+      "price": 999.99,
+      "stock": 13,
+      "images": [
+        "https://m.media-amazon.com/images/I/41oqBn6-1xL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41DvLDdveWL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41y-JrX34tL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51p8gcRQrxL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/416-dm8yDQL._AC_US40_.jpg"
+      ],
+      "category": "Laptop",
+      "brand": "Lenovo"
+    },
+    {
+      "name": "Macbook Air M1",
+      "description": "The Macbook Air M1 is a high-performance laptop with a 13.3-inch Retina display and an Apple M1 chip for excellent performance. It has a 256 GB SSD and up to 18 hours of battery life for all-day use.",
+      "price": 999.99,
+      "stock": 10,
+      "images": [
+        "https://m.media-amazon.com/images/I/41OAYNiMobL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41xc+gyTcbL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41wVv29S69L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51tVimoXQ1L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/413nJkqggbL._AC_US40_.jpg"
+      ],
+      "category": "Laptop",
+      "brand": "Apple"
+    },
+    {
+      "name": "Samsung Odyssey G7 27-inch",
+      "description": "The Samsung Odyssey G7 27-inch is a high-performance gaming monitor with a 2560x1440 resolution and a 240 Hz refresh rate for smooth gameplay. It has a 1 ms response time and supports NVIDIA G-Sync technology for tear-free gaming.",
+      "price": 699.99,
+      "stock": 5,
+      "images": [
+        "https://m.media-amazon.com/images/I/51KiWCXSuSL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51zKQnox2LL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51-sk7MG2GL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51YHjepF3dL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41MJ6acFNUL._AC_US40_.jpg"
+      ],
+      "category": "Monitor",
+      "brand": "Samsung"
+    },
+    {
+      "name": "LG 27UL650-W 27-inch",
+      "description": "The LG 27UL650-W 27-inch is a high-performance monitor with a 3840x2160 resolution and a 60 Hz refresh rate for excellent image quality. It has a 5 ms response time and supports HDR10 technology for vibrant colors.",
+      "price": 399.99,
+      "stock": 10,
+      "images": [
+        "https://m.media-amazon.com/images/I/51+ffurACJL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/518DouGSDkL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/511mFTH6tZL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41Y8MAW+mjL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51bAkqS-NOL._AC_US40_.jpg"
+      ],
+      "category": "Monitor",
+      "brand": "LG"
+    },
+    {
+      "name": "Acer Predator Helios 300",
+      "description": "The Acer Predator Helios 300 is a high-performance gaming laptop with a 15.6-inch FHD display and an Intel Core i7 processor for excellent performance. It has a 512 GB SSD and NVIDIA GeForce RTX 2060 graphics for smooth gameplay.",
+      "price": 1199.99,
+      "stock": 10,
+      "images": [
+        "https://m.media-amazon.com/images/I/31XA04pbuQL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41dEJEqirmL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41B90T54c-L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41v69NkijNL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41XV5Q5FTeL._AC_US40_.jpg"
+      ],
+      "category": "Laptop",
+      "brand": "Acer"
+    },
+    {
+      "name": "Razer Blade 15",
+      "description": "The Razer Blade 15 is a high-performance gaming laptop with a 15.6-inch FHD display and an Intel Core i7 processor for excellent performance. It has a 512 GB SSD and NVIDIA GeForce RTX 2070 graphics for smooth gameplay.",
+      "price": 1799.99,
+      "stock": 8,
+      "images": [
+        "https://m.media-amazon.com/images/I/31snc6vcUTL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31bIjUz2vXL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41BNn54XGSL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31NeWyC1StL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/412wwQsY2YL._AC_US40_.jpg"
+      ],
+      "category": "Laptop",
+      "brand": "Razer"
+    },
+    {
+      "name": "AMD Ryzen 7 5800X 8-Core Processor",
+      "description": "The AMD Ryzen 7 5800X 8-Core Processor offers excellent multi-threaded performance for demanding tasks.",
+      "price": 399.99,
+      "stock": 8,
+      "images": [
+        "https://m.media-amazon.com/images/I/41JHmyV44WL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/5190kS8jKhL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51pD+fny1wL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/511xNCKAkKL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51CzheupyUL._AC_US40_.jpg"
+      ],
+      "category": "CPU",
+      "brand": "AMD"
+    },
+    {
+      "name": "Intel Core i7-10700K 3.8 GHz 8-Core Processor",
+      "description": "The Intel Core i7-10700K 8-Core Processor delivers robust performance for gaming and multitasking.",
+      "price": 349.99,
+      "stock": 10,
+      "images": [
+        "https://m.media-amazon.com/images/I/311X6YjuHwL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/61l7mgjEm0L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg"
+      ],
+      "category": "CPU",
+      "brand": "Intel"
+    },
+    {
+      "name": "NVIDIA GeForce RTX 3070 8 GB Graphics Card",
+      "description": "The NVIDIA GeForce RTX 3070 8 GB Graphics Card provides excellent gaming performance with real-time ray tracing.",
+      "price": 499.99,
+      "stock": 6,
+      "images": [
+        "https://m.media-amazon.com/images/I/41rMvuyUhKL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41mP5hWvSeL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41Y7IkIkejL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/411hoAIUJ0L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41bzODObEKL._AC_US40_.jpg"
+      ],
+      "category": "GPU",
+      "brand": "NVIDIA"
+    },
+    {
+      "name": "AMD Radeon RX 6700 XT 12 GB Graphics Card",
+      "description": "The AMD Radeon RX 6700 XT 12 GB Graphics Card offers great performance for 1440p gaming and creative tasks.",
+      "price": 479.99,
+      "stock": 7,
+      "images": [
+        "https://m.media-amazon.com/images/I/41G0-twEyLL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51aihdcn3rL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41TpdnH9VsL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/418ytkKMKbL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/515RQwyWq6L._AC_US40_.jpg"
+      ],
+      "category": "GPU",
+      "brand": "AMD"
+    },
+    {
+      "name": "Corsair Dominator Platinum RGB 16 GB (2 x 8 GB) DDR4-3200 Memory",
+      "description": "The Corsair Dominator Platinum RGB 16 GB DDR4 memory kit features stunning RGB lighting and reliable performance.",
+      "price": 129.99,
+      "stock": 20,
+      "images": [
+        "https://m.media-amazon.com/images/I/41kZ5-9GbtL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/418GBTsG9HL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41JBKcvmOzL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41PbUcYTwzL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51gQBTMwbvL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg"
+      ],
+      "category": "Memory",
+      "brand": "Corsair"
+    },
+    {
+      "name": "Kingston HyperX Fury 32 GB (2 x 16 GB) DDR4-2666 Memory",
+      "description": "The Kingston HyperX Fury 32 GB DDR4 memory kit offers a balance of performance and capacity for demanding applications.",
+      "price": 149.99,
+      "stock": 15,
+      "images": [
+        "https://m.media-amazon.com/images/I/41t7yG7FPDL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51O0eOsYgBL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51-jxj65X7L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51ZegT+D1OL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51tgVfWmMmL._AC_US40_.jpg"
+      ],
+      "category": "Memory",
+      "brand": "Kingston"
+    },
+    {
+      "name": "Western Digital Blue 2 TB 3.5\" 7200 RPM Hard Drive",
+      "description": "The Western Digital Blue 2 TB Hard Drive delivers reliable storage with 7200 RPM performance for everyday computing.",
+      "price": 89.99,
+      "stock": 25,
+      "images": [
+        "https://m.media-amazon.com/images/I/41tEWQ-6A1L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51W27fJMF1L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51B5YH56hGL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51Y-ZnamRrL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31P7MkqUv6L._AC_US40_.jpg"
+      ],
+      "category": "Storage",
+      "brand": "Western Digital"
+    },
+    {
+      "name": "Seagate Barracuda 4 TB 3.5\" 7200 RPM Hard Drive",
+      "description": "The Seagate Barracuda 4 TB Hard Drive provides ample storage space with fast 7200 RPM performance for desktops.",
+      "price": 109.99,
+      "stock": 20,
+      "images": [
+        "https://m.media-amazon.com/images/I/41AtswEQJkL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51jj8p37EBL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51Q57Yt4VmL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/61tu27yt74L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51sjTpvu6dL._AC_US40_.jpg"
+      ],
+      "category": "Storage",
+      "brand": "Seagate"
+    },
+    {
+      "name": "Phanteks Eclipse P400A Digital ATX Mid Tower Case",
+      "description": "The Phanteks Eclipse P400A features high airflow design, tempered glass, and digital RGB lighting for a stylish build.",
+      "price": 89.99,
+      "stock": 10,
+      "images": [
+        "https://m.media-amazon.com/images/I/419hCVITaxL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41ZSRmzX6SL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51efYIFyP0L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41rcmVDchsL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51JJ4eWPMcL._AC_US40_.jpg"
+      ],
+      "category": "Case",
+      "brand": "Phanteks"
+    },
+    {
+      "name": "EVGA SuperNOVA 750 G5 750 W 80+ Gold Certified Fully Modular Power Supply",
+      "description": "The EVGA SuperNOVA 750 G5 offers efficient power delivery with 80+ Gold certification and a fully modular design.",
+      "price": 129.99,
+      "stock": 8,
+      "images": [
+        "https://m.media-amazon.com/images/I/41pCP9zCauL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51Kgy+KbL0L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51M+IlAHo0L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41wuM17FVCL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51+G7KIyQ4L._AC_US40_.jpg"
+      ],
+      "category": "Power Supply",
+      "brand": "EVGA"
+    },
+    {
+      "name": "AOC 24G2 23.8-inch 1080p 144 Hz Gaming Monitor",
+      "description": "The AOC 24G2 offers a 23.8-inch Full HD display with a 144 Hz refresh rate and vibrant colors for competitive gaming.",
+      "price": 179.99,
+      "stock": 15,
+      "images": [
+        "https://m.media-amazon.com/images/I/51aIuzvzflL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/510ptWAE3ML._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51tZmXONXWL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51vgtm+0abL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51LtOvnpJJL._AC_US40_.jpg"
+      ],
+      "category": "Monitor",
+      "brand": "AOC"
+    },
+    {
+      "name": "BenQ ZOWIE XL2411P 24-inch 1080p 144 Hz Gaming Monitor",
+      "description": "The BenQ ZOWIE XL2411P is a 24-inch gaming monitor optimized for esports with a fast 144 Hz refresh rate and smooth performance.",
+      "price": 219.99,
+      "stock": 12,
+      "images": [
+        "https://m.media-amazon.com/images/I/41rLTbzOeAL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51dWt+NjreL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51Srm6eyikL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/418bpHSHAjL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41+ffZ-cYML._AC_US40_.jpg"
+      ],
+      "category": "Monitor",
+      "brand": "BenQ"
+    },
+    {
+      "name": "Razer Viper Ultimate Wireless Gaming Mouse",
+      "description": "The Razer Viper Ultimate is a lightweight wireless gaming mouse with a high-precision sensor and ultra-fast response times.",
+      "price": 149.99,
+      "stock": 30,
+      "images": [
+        "https://m.media-amazon.com/images/I/21TjMKdSlmL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41sybR7JS4L._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41BFLabdBjL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41fhEFt17yL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41mk+PWJu+L._AC_SR38,50_.jpg"
+      ],
+      "category": "Mouse",
+      "brand": "Razer"
+    },
+    {
+      "name": "SteelSeries Sensei Ten Gaming Mouse",
+      "description": "The SteelSeries Sensei Ten offers a highly accurate sensor and ergonomic design for competitive gaming.",
+      "price": 59.99,
+      "stock": 35,
+      "images": [
+        "https://m.media-amazon.com/images/I/41GIgtvlDCL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31Elsz+ukxL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31C5gYL-0iL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/21rUp+3uMLL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/21cszVdXr9L._AC_US40_.jpg"
+      ],
+      "category": "Mouse",
+      "brand": "SteelSeries"
+    },
+    {
+      "name": "Logitech G915 TKL Wireless Mechanical Gaming Keyboard",
+      "description": "The Logitech G915 TKL features low-profile mechanical switches, wireless connectivity, and RGB lighting for an elite gaming experience.",
+      "price": 249.99,
+      "stock": 10,
+      "images": [
+        "https://m.media-amazon.com/images/I/41vu5yPY0tL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41Z9UziNqLL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41BTi9cHeQL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51Aqk524azL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41jfPbWUhKL._AC_US40_.jpg"
+      ],
+      "category": "Keyboard",
+      "brand": "Logitech"
+    },
+    {
+      "name": "HyperX Alloy Elite 2 Mechanical Gaming Keyboard",
+      "description": "The HyperX Alloy Elite 2 is a mechanical gaming keyboard with vibrant RGB lighting and responsive key switches.",
+      "price": 159.99,
+      "stock": 12,
+      "images": [
+        "https://m.media-amazon.com/images/I/41vu5yPY0tL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41Z9UziNqLL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41BTi9cHeQL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51Aqk524azL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41jfPbWUhKL._AC_US40_.jpg"
+      ],
+      "category": "Keyboard",
+      "brand": "HyperX"
+    },
+    {
+      "name": "Beyerdynamic MMX 300 (2nd Gen) Gaming Headset",
+      "description": "The Beyerdynamic MMX 300 offers exceptional audio quality, comfortable design, and clear communication for gaming.",
+      "price": 199.99,
+      "stock": 7,
+      "images": [
+        "https://m.media-amazon.com/images/I/41Y-4PruWZL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41OiZvGknjL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51o3W785XbL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/419FiHhSYnL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41RApQ5OZlL._AC_US40_.jpg"
+      ],
+      "category": "Headset",
+      "brand": "Beyerdynamic"
+    },
+    {
+      "name": "Sennheiser GSP 670 Wireless Gaming Headset",
+      "description": "The Sennheiser GSP 670 wireless gaming headset delivers high-fidelity sound and a comfortable fit for extended sessions.",
+      "price": 299.99,
+      "stock": 5,
+      "images": [
+        "https://m.media-amazon.com/images/I/41Rb3L9G-WL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41EVcGMgBEL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41ILbAWc-kL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41AwnsfHpZL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41w1ImfZlTL._AC_US40_.jpg"
+      ],
+      "category": "Headset",
+      "brand": "Sennheiser"
+    },
+    {
+      "name": "Elgato Stream Deck XL",
+      "description": "The Elgato Stream Deck XL offers 32 customizable LCD keys to streamline your streaming workflow and content creation.",
+      "price": 249.99,
+      "stock": 4,
+      "images": [
+        "https://m.media-amazon.com/images/I/415m9-P9lmL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51abwfnIMlL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41sS9SC00fL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51TvUfZxSHL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/5105LpkEY3L._AC_US40_.jpg"
+      ],
+      "category": "Streaming",
+      "brand": "Elgato"
+    },
+    {
+      "name": "Shure MV7 USB Podcast Microphone",
+      "description": "The Shure MV7 combines dynamic microphone quality with USB connectivity, ideal for streaming, podcasting, and recording.",
+      "price": 249.99,
+      "stock": 10,
+      "images": [
+        "https://m.media-amazon.com/images/I/410XD52av1L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51wRligj32L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41R+2AKXfqL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/411lBuw4j1L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41n0i+-MRML._AC_US40_.jpg"
+      ],
+      "category": "Microphone",
+      "brand": "Shure"
+    },
+    {
+      "name": "Canon EOS Rebel T7 DSLR Camera",
+      "description": "The Canon EOS Rebel T7 DSLR Camera is perfect for photography enthusiasts, featuring an 18MP sensor and full HD video recording.",
+      "price": 449.99,
+      "stock": 8,
+      "images": [
+        "https://m.media-amazon.com/images/I/51rG-HrzrcL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51OAovHKCFS._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41u6U5oeSrL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51BdFCA-igL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/518nmCb9mbS._AC_US40_.jpg"
+      ],
+      "category": "Camera",
+      "brand": "Canon"
+    },
+    {
+      "name": "Apple iPhone 13 Pro Max",
+      "description": "The Apple iPhone 13 Pro Max features a stunning display, advanced camera system, and powerful performance for a premium mobile experience.",
+      "price": 1299.99,
+      "stock": 10,
+      "images": [
+        "https://m.media-amazon.com/images/I/41JxMPnCkTL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/4188PyIk8yL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51Pu0qrIZ3L._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41TXRn7MZOL._AC_SR38,50_.jpg",
+        "https://m.media-amazon.com/images/I/412MbeyUsgL._AC_SR38,50_.jpg"
+      ],
+      "category": "Smartphone",
+      "brand": "Apple"
+    },
+    {
+      "name": "Samsung Galaxy S22 Ultra 5G",
+      "description": "The Samsung Galaxy S22 Ultra 5G offers a brilliant display, high-resolution camera, and top-tier performance for power users.",
+      "price": 1199.99,
+      "stock": 8,
+      "images": [
+        "https://m.media-amazon.com/images/I/51xF3qHY4sL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41J-1zhI1BL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51kvOviINTL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41PoqWBSk9L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41+ZurAQFjL._AC_US40_.jpg"
+      ],
+      "category": "Smartphone",
+      "brand": "Samsung"
+    },
+    {
+      "name": "MSI GS66 Stealth 15.6-inch Gaming Laptop",
+      "description": "The MSI GS66 Stealth Gaming Laptop features a 15.6-inch display, powerful graphics, and robust performance for gaming on the go.",
+      "price": 1599.99,
+      "stock": 6,
+      "images": [
+        "https://m.media-amazon.com/images/I/410T+cPoKtL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51ZULVII1AL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51SKXpue--L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/412IZApKdfL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41HyDmm+T1L._AC_US40_.jpg"
+      ],
+      "category": "Laptop",
+      "brand": "MSI"
+    },
+    {
+      "name": "Gigabyte AERO 15 OLED 15.6-inch Laptop",
+      "description": "The Gigabyte AERO 15 OLED Laptop delivers stunning visuals with its OLED display, combined with powerful performance for creators and gamers.",
+      "price": 1799.99,
+      "stock": 5,
+      "images": [
+        "https://m.media-amazon.com/images/I/41RiAOeqEkL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51BOegTIvOL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51G0mcg6VUL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51Tt17mYY+L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41GDI2uR0pL._AC_US40_.jpg"
+      ],
+      "category": "Laptop",
+      "brand": "Gigabyte"
+    },
+    {
+      "name": "Corsair K70 RGB MK.2 Mechanical Gaming Keyboard",
+      "description": "Experience premium mechanical performance and customizable RGB lighting with the Corsair K70 RGB MK.2. Designed for gamers with responsive keys and a durable build.",
+      "price": 159.99,
+      "stock": 12,
+      "images": [
+        "https://m.media-amazon.com/images/I/41vu5yPY0tL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41Z9UziNqLL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41BTi9cHeQL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51Aqk524azL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41jfPbWUhKL._AC_US40_.jpg"
+      ],
+      "category": "Keyboard",
+      "brand": "Corsair"
+    },
+    {
+      "name": "Razer BlackWidow V3 Mechanical Gaming Keyboard",
+      "description": "The Razer BlackWidow V3 offers tactile mechanical switches and customizable lighting effects, providing an optimized gaming experience with precision and speed.",
+      "price": 129.99,
+      "stock": 10,
+      "images": [
+        "https://m.media-amazon.com/images/I/41vu5yPY0tL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41Z9UziNqLL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41BTi9cHeQL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51Aqk524azL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41jfPbWUhKL._AC_US40_.jpg"
+      ],
+      "category": "Keyboard",
+      "brand": "Razer"
+    },
+    {
+      "name": "SteelSeries Apex Pro TKL Gaming Keyboard",
+      "description": "Featuring adjustable actuation points and a compact tenkeyless design, the SteelSeries Apex Pro TKL delivers professional-grade performance for competitive gaming.",
+      "price": 199.99,
+      "stock": 8,
+      "images": [
+        "https://m.media-amazon.com/images/I/41vu5yPY0tL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41Z9UziNqLL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41BTi9cHeQL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51Aqk524azL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41jfPbWUhKL._AC_US40_.jpg"
+      ],
+      "category": "Keyboard",
+      "brand": "SteelSeries"
+    },
+    {
+      "name": "Logitech G815 Mechanical Gaming Keyboard",
+      "description": "The Logitech G815 offers a sleek, low-profile design with fast mechanical switches and vibrant RGB lighting, ideal for both gaming and productivity.",
+      "price": 229.99,
+      "stock": 15,
+      "images": [
+        "https://m.media-amazon.com/images/I/41vu5yPY0tL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41Z9UziNqLL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41BTi9cHeQL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51Aqk524azL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41jfPbWUhKL._AC_US40_.jpg"
+      ],
+      "category": "Keyboard",
+      "brand": "Logitech"
+    },
+    {
+      "name": "HyperX Alloy Origins Core Mechanical Gaming Keyboard",
+      "description": "Engineered for speed and durability, the HyperX Alloy Origins Core features lightweight mechanical switches and dynamic RGB lighting for an immersive gaming experience.",
+      "price": 139.99,
+      "stock": 20,
+      "images": [
+        "https://m.media-amazon.com/images/I/41vu5yPY0tL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41Z9UziNqLL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41BTi9cHeQL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51Aqk524azL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41jfPbWUhKL._AC_US40_.jpg"
+      ],
+      "category": "Keyboard",
+      "brand": "HyperX"
+    },
+    {
+      "name": "Asus ROG Strix Flare II Gaming Keyboard",
+      "description": "With a distinctive design and per-key RGB lighting, the Asus ROG Strix Flare II combines performance and aesthetics for dedicated gamers.",
+      "price": 159.99,
+      "stock": 10,
+      "images": [
+        "https://m.media-amazon.com/images/I/41mbwUPsPDL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51YDy-T4AjL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51cHbpZRooL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/516nGOEbUrL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51+bqTKNhqL._AC_US40_.jpg"
+      ],
+      "category": "Keyboard",
+      "brand": "Asus"
+    },
+    {
+      "name": "Cooler Master SK630 Gaming Keyboard",
+      "description": "The Cooler Master SK630 offers a slim profile with high-performance low-profile switches, perfect for gamers seeking a minimalist yet responsive keyboard.",
+      "price": 99.99,
+      "stock": 25,
+      "images": [
+        "https://m.media-amazon.com/images/I/51zeAc9myDL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51m80IZLkgL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51aOwlhAzTL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51CtZqEaXHL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41r3dx9wbQL._SX38_SY50_CR,0,0,38,50_.jpg"
+      ],
+      "category": "Keyboard",
+      "brand": "Cooler Master"
+    },
+    {
+      "name": "Ducky One 2 Mini RGB Gaming Keyboard",
+      "description": "The Ducky One 2 Mini is a compact 60% keyboard featuring high-quality mechanical switches and vibrant RGB lighting, making it a favorite among esports enthusiasts.",
+      "price": 109.99,
+      "stock": 18,
+      "images": [
+        "https://m.media-amazon.com/images/I/41vu5yPY0tL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41Z9UziNqLL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41BTi9cHeQL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51Aqk524azL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41jfPbWUhKL._AC_US40_.jpg"
+      ],
+      "category": "Keyboard",
+      "brand": "Ducky"
+    },
+    {
+      "name": "Logitech G502 HERO Gaming Mouse",
+      "description": "The Logitech G502 HERO features a high-precision sensor and customizable buttons, delivering exceptional control and performance in fast-paced gaming.",
+      "price": 49.99,
+      "stock": 30,
+      "images": [
+        "https://m.media-amazon.com/images/I/414QOyJ9y5L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51zqjclOB7L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51bmsrCMLUL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41Jmddwy6VL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51p+2exiqoL._AC_US40_.jpg"
+      ],
+      "category": "Mouse",
+      "brand": "Logitech"
+    },
+    {
+      "name": "Razer DeathAdder V2 Gaming Mouse",
+      "description": "Renowned for its ergonomic design and precision sensor, the Razer DeathAdder V2 is engineered to provide comfort and accuracy during extended gaming sessions.",
+      "price": 69.99,
+      "stock": 35,
+      "images": [
+        "https://m.media-amazon.com/images/I/414QOyJ9y5L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51zqjclOB7L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51bmsrCMLUL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41Jmddwy6VL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51p+2exiqoL._AC_US40_.jpg"
+      ],
+      "category": "Mouse",
+      "brand": "Razer"
+    },
+    {
+      "name": "SteelSeries Rival 600 Gaming Mouse",
+      "description": "The SteelSeries Rival 600 features dual sensors for precise tracking and customizable weight tuning, ensuring optimal performance for competitive gamers.",
+      "price": 79.99,
+      "stock": 20,
+      "images": [
+        "https://m.media-amazon.com/images/I/41wcszXI1HL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/514jYDDOQOL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41CTVePmSoL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/419ZGohMK8L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/413iVTVNLIL._AC_US40_.jpg"
+      ],
+      "category": "Mouse",
+      "brand": "SteelSeries"
+    },
+    {
+      "name": "Corsair M65 RGB Elite Gaming Mouse",
+      "description": "With a tunable weight system and high-accuracy sensor, the Corsair M65 RGB Elite is built for precision aiming and smooth tracking in fast-paced games.",
+      "price": 59.99,
+      "stock": 28,
+      "images": [
+        "https://m.media-amazon.com/images/I/41+hlaqj5qL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41SAzRpljbL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51ul2nVYwtL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41U21WJNxOL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41Z4s4sVfXL._AC_US40_.jpg"
+      ],
+      "category": "Mouse",
+      "brand": "Corsair"
+    },
+    {
+      "name": "Glorious Model O Gaming Mouse",
+      "description": "The Glorious Model O is an ultralight gaming mouse designed for swift movements and reduced fatigue, featuring a high-precision sensor and honeycomb shell design.",
+      "price": 49.99,
+      "stock": 40,
+      "images": [
+        "https://m.media-amazon.com/images/I/41XEF1Bia9L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31pP35pEKeL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31AFprRnpVL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31JcMLUOS9L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/21BZCg1qlYL._AC_US40_.jpg"
+      ],
+      "category": "Mouse",
+      "brand": "Glorious"
+    },
+    {
+      "name": "FinalMouse Ultralight 2 Gaming Mouse",
+      "description": "Designed for speed and agility, the FinalMouse Ultralight 2 offers a featherlight design with a high-performance sensor to keep up with your fastest plays.",
+      "price": 99.99,
+      "stock": 15,
+      "images": [
+        "https://m.media-amazon.com/images/I/314IgZWGXyL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41bLRXojFmL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/21xaWdtPqmL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/414r5pioETL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41SC2GGm6EL._AC_US40_.jpg"
+      ],
+      "category": "Mouse",
+      "brand": "FinalMouse"
+    },
+    {
+      "name": "BenQ ZOWIE EC2-B Gaming Mouse",
+      "description": "The BenQ ZOWIE EC2-B is engineered for esports with a plug-and-play design, offering precision tracking and ergonomic comfort for competitive gamers.",
+      "price": 39.99,
+      "stock": 50,
+      "images": [
+        "https://m.media-amazon.com/images/I/31R6YFGVcUL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31h8zE7hEOL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/319v6mCjjVL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31AGxAjKHvL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31rosaltV-L._AC_US40_.jpg"
+      ],
+      "category": "Mouse",
+      "brand": "BenQ"
+    },
+    {
+      "name": "HyperX Pulsefire Surge RGB Gaming Mouse",
+      "description": "Featuring dynamic 360° RGB lighting and a high-precision sensor, the HyperX Pulsefire Surge is built to deliver smooth tracking and rapid response times.",
+      "price": 79.99,
+      "stock": 22,
+      "images": [
+        "https://m.media-amazon.com/images/I/414QOyJ9y5L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51zqjclOB7L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51bmsrCMLUL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41Jmddwy6VL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51p+2exiqoL._AC_US40_.jpg"
+      ],
+      "category": "Mouse",
+      "brand": "HyperX"
+    },
+    {
+      "name": "HyperX Cloud Revolver S Gaming Headest",
+      "description": "The HyperX Cloud Revolver S offers immersive audio with superior comfort and a noise-cancelling microphone, tailored for an exceptional gaming experience.",
+      "price": 129.99,
+      "stock": 16,
+      "images": [
+        "https://m.media-amazon.com/images/I/415pR5cp16L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51MNOMIy0lL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41vNpbbL-fL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/417BV4oQBvL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51lF0DRv2TL._AC_US40_.jpg"
+      ],
+      "category": "headest",
+      "brand": "HyperX"
+    },
+    {
+      "name": "Razer Nari Ultimate Wireless Gaming Headest",
+      "description": "Featuring immersive haptic feedback and wireless freedom, the Razer Nari Ultimate delivers powerful sound and comfort for marathon gaming sessions.",
+      "price": 179.99,
+      "stock": 10,
+      "images": [
+        "https://m.media-amazon.com/images/I/419PSmh-1yL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/414Iq3ofc8L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41FHKk0tl2L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41falB1+MKL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51p4ILv9DTL._AC_US40_.jpg"
+      ],
+      "category": "headest",
+      "brand": "Razer"
+    },
+    {
+      "name": "SteelSeries Arctis Pro Wireless Headest",
+      "description": "The SteelSeries Arctis Pro Wireless Headest boasts high-fidelity audio, a dual-wireless system, and a comfortable design engineered for extended gaming.",
+      "price": 249.99,
+      "stock": 8,
+      "images": [
+        "https://m.media-amazon.com/images/I/31EN5drQ57L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41Hp7SLdwbL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41kOY1xmJpL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/4186usQAnrL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41Anzu4kNZL._AC_US40_.jpg"
+      ],
+      "category": "headest",
+      "brand": "SteelSeries"
+    },
+    {
+      "name": "Logitech G935 Wireless Gaming Headest",
+      "description": "With immersive 7.1 surround sound and wireless connectivity, the Logitech G935 offers crystal-clear audio and a comfortable, adjustable fit.",
+      "price": 199.99,
+      "stock": 12,
+      "images": [
+        "https://m.media-amazon.com/images/I/415pR5cp16L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51MNOMIy0lL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41vNpbbL-fL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/417BV4oQBvL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51lF0DRv2TL._AC_US40_.jpg"
+      ],
+      "category": "headest",
+      "brand": "Logitech"
+    },
+    {
+      "name": "Corsair HS70 Wireless Gaming Headest",
+      "description": "The Corsair HS70 delivers high-quality audio with wireless convenience and a durable design, making it perfect for immersive gaming and multimedia.",
+      "price": 89.99,
+      "stock": 25,
+      "images": [
+        "https://m.media-amazon.com/images/I/415pR5cp16L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51MNOMIy0lL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41vNpbbL-fL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/417BV4oQBvL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51lF0DRv2TL._AC_US40_.jpg"
+      ],
+      "category": "headest",
+      "brand": "Corsair"
+    },
+    {
+      "name": "Logitech Brio Ultra HD Webcam",
+      "description": "Capture stunning 4K video with the Logitech Brio Ultra HD Webcam, featuring advanced light correction and versatile mounting options for streaming or conferencing.",
+      "price": 199.99,
+      "stock": 10,
+      "images": [
+        "https://m.media-amazon.com/images/I/31v1y7qj8QL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51DbpofQIzL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51ekpmGyUHL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41gaCIAv-2L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51EfeQUwABL._AC_US40_.jpg"
+      ],
+      "category": "Webcam",
+      "brand": "Logitech"
+    },
+    {
+      "name": "Razer Kiyo Pro Webcam",
+      "description": "The Razer Kiyo Pro Webcam offers adaptive light sensors and high-resolution imaging, ensuring clear and vibrant video streaming in any environment.",
+      "price": 169.99,
+      "stock": 15,
+      "images": [
+        "https://m.media-amazon.com/images/I/31v1y7qj8QL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51DbpofQIzL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51ekpmGyUHL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41gaCIAv-2L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51EfeQUwABL._AC_US40_.jpg"
+      ],
+      "category": "Webcam",
+      "brand": "Razer"
+    },
+    {
+      "name": "Microsoft LifeCam HD-3000 Webcam",
+      "description": "The Microsoft LifeCam HD-3000 delivers 720p HD video with TrueColor technology, providing clear and natural video quality for everyday conferencing.",
+      "price": 39.99,
+      "stock": 30,
+      "images": [
+        "https://m.media-amazon.com/images/I/41tYb74YvaL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51W4NTkEEiL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41AIWW4v0+L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/510jffsTaJL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51T3pCCqWhL._AC_US40_.jpg"
+      ],
+      "category": "Webcam",
+      "brand": "Microsoft"
+    },
+    {
+      "name": "Aukey PC-LM1E Full HD Webcam",
+      "description": "The Aukey PC-LM1E is a compact Full HD webcam designed for clear video streaming and conferencing, featuring built-in noise reduction and versatile mounting options.",
+      "price": 59.99,
+      "stock": 20,
+      "images": [
+        "https://m.media-amazon.com/images/I/41tYb74YvaL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51W4NTkEEiL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41AIWW4v0+L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/510jffsTaJL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51T3pCCqWhL._AC_US40_.jpg"
+      ],
+      "category": "Webcam",
+      "brand": "Aukey"
+    },
+    {
+      "name": "Cooler Master Hyper 212 EVO CPU Cooling",
+      "description": "The Cooler Master Hyper 212 EVO offers excellent cooling performance with a sleek design and easy installation for mainstream processors.",
+      "price": 34.99,
+      "stock": 50,
+      "images": [
+        "https://m.media-amazon.com/images/I/41MkcNsKTnL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41SA4CMImAL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41BgyGxPMUL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51MSrzJWlNL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/615pe+QQisL._SX38_SY50_CR,0,0,38,50_.jpg"
+      ],
+      "category": "CPU Cooling",
+      "brand": "Cooler Master"
+    },
+    {
+      "name": "Noctua NH-D15 Chromax.Black CPU Cooler",
+      "description": "The Noctua NH-D15 Chromax.Black delivers exceptional cooling performance with dual fans and premium build quality for overclockers.",
+      "price": 99.99,
+      "stock": 30,
+      "images": [
+        "https://m.media-amazon.com/images/I/41ipI4VuE0L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41lJd8PJv5L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41IheLw-MfL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41fBtiAUyIL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41-jSLT8K8L._AC_US40_.jpg"
+      ],
+      "category": "CPU Cooling",
+      "brand": "Noctua"
+    },
+    {
+      "name": "be quiet! Dark Rock Pro 4 CPU Cooling",
+      "description": "Experience near-silent operation and high cooling efficiency with the be quiet! Dark Rock Pro 4.",
+      "price": 89.99,
+      "stock": 25,
+      "images": [
+        "https://m.media-amazon.com/images/I/41rB58W61UL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41Oc2A9Fy9L._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41tJj4UZDmL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51pn2Rga22L._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51NSERmdyhL._SX38_SY50_CR,0,0,38,50_.jpg"
+      ],
+      "category": "CPU Cooling",
+      "brand": "be quiet!"
+    },
+    {
+      "name": "Corsair H100i RGB Platinum CPU Cooler",
+      "description": "The Corsair H100i RGB Platinum features a 240mm radiator and customizable RGB lighting for superior cooling performance.",
+      "price": 129.99,
+      "stock": 20,
+      "images": [
+        "https://m.media-amazon.com/images/I/41qKo1OaozL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51kGtNI+KSL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41v8YSpUNhL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51CtW6H1CyL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51D7kysqlPL._AC_US40_.jpg"
+      ],
+      "category": "CPU Cooling",
+      "brand": "Corsair"
+    },
+    {
+      "name": "NZXT Kraken X63 CPU Cooler",
+      "description": "The NZXT Kraken X63 combines powerful cooling with a customizable LCD display and sleek design.",
+      "price": 149.99,
+      "stock": 15,
+      "images": [
+        "https://m.media-amazon.com/images/I/414DEMQQLcL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41ENkjPKdVL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31vRDzBn+RL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31BHt7vQdcL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41EBaUJkrFL._AC_US40_.jpg"
+      ],
+      "category": "CPU Cooling",
+      "brand": "NZXT"
+    },
+    {
+      "name": "Deepcool Gammaxx 400 CPU Cooler",
+      "description": "The Deepcool Gammaxx 400 offers efficient cooling with a compact design and quiet operation, perfect for budget builds.",
+      "price": 29.99,
+      "stock": 40,
+      "images": [
+        "https://m.media-amazon.com/images/I/31Z35-p02gL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41VAQulpUfL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41USHnpN9fL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41yXsE55qZL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41IUZQArbqL._SX38_SY50_CR,0,0,38,50_.jpg"
+      ],
+      "category": "CPU Cooling",
+      "brand": "Deepcool"
+    },
+    {
+      "name": "Arctic Freezer 34 eSports DUO CPU Cooler",
+      "description": "The Arctic Freezer 34 eSports DUO features dual fans for enhanced airflow and reliable cooling performance.",
+      "price": 44.99,
+      "stock": 35,
+      "images": [
+        "https://m.media-amazon.com/images/I/41a2lOPEsQL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51+kJXXOt0L._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/510CnD1z5ZL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51y-1IWBtoL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51mVh78Ag3L._SX38_SY50_CR,0,0,38,50_.jpg"
+      ],
+      "category": "CPU Cooling",
+      "brand": "Arctic"
+    },
+    {
+      "name": "Thermaltake Floe Riing RGB 240 CPU Cooler",
+      "description": "Enjoy vibrant RGB lighting and efficient cooling with the Thermaltake Floe Riing RGB 240, ideal for high-performance builds.",
+      "price": 139.99,
+      "stock": 18,
+      "images": [
+        "https://m.media-amazon.com/images/I/319VxSPjFfL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51V0brEH2gL._SX35_SY46._CR0,0,35,46_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg"
+      ],
+      "category": "CPU Cooling",
+      "brand": "Thermaltake"
+    },
+    {
+      "name": "Scythe Mugen 5 Rev. B CPU Cooler",
+      "description": "The Scythe Mugen 5 Rev. B offers a balance of cooling performance and quiet operation, making it a favorite for many enthusiasts.",
+      "price": 49.99,
+      "stock": 30,
+      "images": [
+        "https://m.media-amazon.com/images/I/41KhnhJU54L._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51LBidCcBAL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51AkrMYC0JL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51FnF5GD6TL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51qd81QJZgL._SX38_SY50_CR,0,0,38,50_.jpg"
+      ],
+      "category": "CPU Cooling",
+      "brand": "Scythe"
+    },
+    {
+      "name": "Cryorig R1 Ultimate CPU Cooler",
+      "description": "The Cryorig R1 Ultimate provides top-tier cooling performance with an innovative design for high-end systems.",
+      "price": 89.99,
+      "stock": 22,
+      "images": [
+        "https://m.media-amazon.com/images/I/318Z4BDhTxL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41kbjoRqXeL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41krqTOL9sL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51GutuF7ETL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51KpPhZcvjL._SX38_SY50_CR,0,0,38,50_.jpg"
+      ],
+      "category": "CPU Cooling",
+      "brand": "Cryorig"
+    },
+    {
+      "name": "EK-AIO 240 D-RGB CPU Cooler",
+      "description": "The EK-AIO 240 D-RGB features a 240mm radiator and dynamic RGB lighting, offering both aesthetics and performance.",
+      "price": 149.99,
+      "stock": 16,
+      "images": [
+        "https://m.media-amazon.com/images/I/41qEDPqtOFL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/415KDtnhzHL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41MS16d9AGL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/412GLe16VrL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41CKaexRWeL._SX38_SY50_CR,0,0,38,50_.jpg"
+      ],
+      "category": "CPU Cooling",
+      "brand": "EKWB"
+    },
+    {
+      "name": "Cooler Master MasterLiquid ML240L CPU Cooler",
+      "description": "The MasterLiquid ML240L provides reliable liquid cooling with a compact design and customizable RGB lighting.",
+      "price": 99.99,
+      "stock": 25,
+      "images": [
+        "https://m.media-amazon.com/images/I/31Mdxcfl34L._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51rkbv8sW9L._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51dRcAMU9FL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51HvxALZ8nL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51AqOrzqMrL._SX38_SY50_CR,0,0,38,50_.jpg"
+      ],
+      "category": "CPU Cooling",
+      "brand": "Cooler Master"
+    },
+    {
+      "name": "Noctua NH-U12S CPU Cooler",
+      "description": "The Noctua NH-U12S offers a streamlined design with excellent thermal performance and low noise operation.",
+      "price": 69.99,
+      "stock": 28,
+      "images": [
+        "https://m.media-amazon.com/images/I/41KhnhJU54L._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51LBidCcBAL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51AkrMYC0JL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51FnF5GD6TL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51qd81QJZgL._SX38_SY50_CR,0,0,38,50_.jpg"
+      ],
+      "category": "CPU Cooling",
+      "brand": "Noctua"
+    },
+    {
+      "name": "be quiet! Pure Rock 2 CPU Cooler",
+      "description": "The be quiet! Pure Rock 2 is an affordable yet efficient air cooler, ensuring stable performance for everyday computing.",
+      "price": 39.99,
+      "stock": 32,
+      "images": [
+        "https://m.media-amazon.com/images/I/416tva+swlL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41ycbSw6mPL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51yuZHgqwiL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/410U+3nJHEL._SX38_SY50_CR,0,0,38,50_.jpg"
+      ],
+      "category": "CPU Cooling",
+      "brand": "be quiet!"
+    },
+    {
+      "name": "Corsair H115i RGB Platinum CPU Cooler",
+      "description": "Featuring a 280mm radiator and advanced cooling technology, the Corsair H115i RGB Platinum delivers exceptional thermal performance.",
+      "price": 199.99,
+      "stock": 12,
+      "images": [
+        "https://m.media-amazon.com/images/I/31veAbnim9L._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51vuAuydIYL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51mqSC2cfkL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31YBLtkL3hL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51z4+Y20PeL._SX38_SY50_CR,0,0,38,50_.jpg"
+      ],
+      "category": "CPU Cooling",
+      "brand": "Corsair"
+    },
+    {
+      "name": "Kraken Z63 280mm - RL-KRZ63-01 - AIO RGB CPU Liquid Cooler",
+      "description": "The NZXT Kraken Z63 features a customizable LCD display and high-performance liquid cooling to keep your system cool under pressure.",
+      "price": 209.99,
+      "stock": 10,
+      "images": [
+        "https://m.media-amazon.com/images/I/41fQtUbuNnL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41H22-n6RqL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/412dGiWepDL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31cZLkgV9FL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31WgmV1WphL._AC_US40_.jpg"
+      ],
+      "category": "CPU Cooling",
+      "brand": "NZXT"
+    },
+    {
+      "name": "Kraken 240 - 240mm AIO CPU Liquid Cooler",
+      "description": "The Kraken 240 - 240mm AIO CPU Liquid Cooler offers efficient liquid cooling with dual fans and a sleek design for enhanced system performance.",
+      "price": 79.99,
+      "stock": 20,
+      "images": [
+        "https://m.media-amazon.com/images/I/31nQ7AmyUDL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31xjU9hjjoL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41wo90uPpcL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31vo5TdwfaL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31pAqqAZU0L._SX38_SY50_CR,0,0,38,50_.jpg"
+      ],
+      "category": "CPU Cooling",
+      "brand": "NZXT"
+    },
+    {
+      "name": "ARCTIC Liquid Freezer III 280 - CPU AIO Water Cooler",
+      "description": "ARCTIC Liquid Freezer III 280 - CPU AIO Water Cooler delivers powerful cooling with integrated VRM fan, ensuring stable performance even under heavy loads.",
+      "price": 119.99,
+      "stock": 15,
+      "images": [
+        "https://m.media-amazon.com/images/I/41lh13kvosL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51dhvssLPuL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41fc0D4oCqL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51oh-abgpuL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51DMNwevzdL._SX38_SY50_CR,0,0,38,50_.jpg"
+      ],
+      "category": "CPU Cooling",
+      "brand": "Arctic"
+    },
+    {
+      "name": "Water 3.0 LGA 2011-3 AM4 Support 280 Riing RGB Edition",
+      "description": "Experience vibrant lighting and top-tier liquid cooling performance with the Water 3.0 LGA 2011-3 AM4 Support 280 Riing RGB Edition, perfect for high-end builds.",
+      "price": 159.99,
+      "stock": 14,
+      "images": [
+        "https://m.media-amazon.com/images/I/319VxSPjFfL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51V0brEH2gL._SX35_SY46._CR0,0,35,46_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg"
+      ],
+      "category": "CPU Cooling",
+      "brand": "Thermaltake"
+    },
+    {
+      "name": "Mugen 6 CPU Air Cooler, Intel LGA1700, LGA1151, AMD AM5, AM4 Support,120mm",
+      "description": "The Mugen 6 CPU Air Cooler, Intel LGA1700, LGA1151, AMD AM5, AM4 Support,120mm is designed for quiet operation and high efficiency, making it a reliable choice for gamers and professionals.",
+      "price": 49.99,
+      "stock": 27,
+      "images": [
+        "https://m.media-amazon.com/images/I/319VxSPjFfL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51V0brEH2gL._SX35_SY46._CR0,0,35,46_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg"
+      ],
+      "category": "CPU Cooling",
+      "brand": "Scythe"
+    },
+    {
+      "name": "Hyper 212 Halo Black CPU Air Cooler",
+      "description": "The Hyper 212 Halo Black CPU Air Cooler offers efficient cooling with a compact design, making it ideal for small form factor builds.",
+      "price": 34.99,
+      "stock": 35,
+      "images": [
+        "https://m.media-amazon.com/images/I/41mLVtH1kRL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41sSilfvB6L._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41Oy9B6kkdL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41od90XrNVL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41aw1whpSEL._SX38_SY50_CR,0,0,38,50_.jpg"
+      ],
+      "category": "CPU Cooling",
+      "brand": "Cooler Master"
+    },
+    {
+      "name": "EKWB 360mm EK-Nucleus CR360 Lux D-RGB Intel/AMD CPU Liquid Cooler",
+      "description": "With a 360mm radiator and full RGB lighting, the EKWB 360mm EK-Nucleus CR360 Lux D-RGB Intel/AMD CPU Liquid Cooler delivers unmatched cooling performance and aesthetics.",
+      "price": 179.99,
+      "stock": 10,
+      "images": [
+        "https://m.media-amazon.com/images/I/31BkJH+ILBL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41DY4aTjyPL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41U03e72CGL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41O880ETabL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31fTu+MrqPL._SX38_SY50_CR,0,0,38,50_.jpg"
+      ],
+      "category": "CPU Cooling",
+      "brand": "EKWB"
+    },
+    {
+      "name": "360 Atmos High Performance Close-Loop AIO Liquid Cooler",
+      "description": "The 360 Atmos High Performance Close-Loop AIO Liquid Cooler features a 360mm radiator and advanced cooling technology, ensuring optimal performance for overclocked systems.",
+      "price": 149.99,
+      "stock": 18,
+      "images": [
+        "https://m.media-amazon.com/images/I/41uVjDHZs0L._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51dzVNi3jtL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51Hy24X6sTL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/519KU2TWAlL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51dtuQ468oL._SX38_SY50_CR,0,0,38,50_.jpg"
+      ],
+      "category": "CPU Cooling",
+      "brand": "Cooler Master"
+    },
+    {
+      "name": "NH-D9L, Premium CPU Cooler with NF-A9 92mm Fan",
+      "description": "The Noctua NH-D9L is a compact, low-profile cooler that offers reliable performance for small form factor builds.",
+      "price": 44.99,
+      "stock": 22,
+      "images": [
+        "https://m.media-amazon.com/images/I/31Ew1PPR8DL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41nAXF+AyIL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41OkVjA6XBL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41zRbgI2m7L._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/4116wgDYjXL._SX38_SY50_CR,0,0,38,50_.jpg"
+      ],
+      "category": "CPU Cooling",
+      "brand": "Noctua"
+    },
+    {
+      "name": "be quiet! Silent Loop 3 240mm CPU AIO Liquid Cooler ",
+      "description": "The be quiet! Silent Loop 3 240mm CPU AIO Liquid Cooler  provides efficient liquid cooling with minimal noise, ideal for high-performance computing.",
+      "price": 189.99,
+      "stock": 9,
+      "images": [
+        "https://m.media-amazon.com/images/I/31rw7KPg8+L._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31xFL1IaH4L._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31W7oxKBE5L._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31KI20SCRiL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31DEnNFjOFL._SX38_SY50_CR,0,0,38,50_.jpg"
+      ],
+      "category": "CPU Cooling",
+      "brand": "be quiet!"
+    },
+    {
+      "name": "Corsair ML120 Pro LED Case Fan",
+      "description": "The Corsair ML120 Pro LED Case Fan delivers high airflow and customizable LED lighting for optimized cooling and style.",
+      "price": 39.99,
+      "stock": 40,
+      "images": [
+        "https://m.media-amazon.com/images/I/416I+vKlpxL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51Q6cGO9urL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41q6uFihyjL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51tfg5CAfwL._AC_US40_.jpg"
+      ],
+      "category": "Case Fan",
+      "brand": "Corsair"
+    },
+    {
+      "name": "NZXT Aer RGB 2 Case Fan",
+      "description": "Enhance your PC's aesthetics with the NZXT Aer RGB 2, featuring dynamic lighting and quiet operation.",
+      "price": 29.99,
+      "stock": 50,
+      "images": [
+        "https://m.media-amazon.com/images/I/416I+vKlpxL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51Q6cGO9urL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41q6uFihyjL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51tfg5CAfwL._AC_US40_.jpg"
+      ],
+      "category": "Case Fan",
+      "brand": "NZXT"
+    },
+    {
+      "name": "Noctua NF-A12x25 Case Fan",
+      "description": "The Noctua NF-A12x25 offers exceptional airflow and low noise levels, making it a top choice for premium builds.",
+      "price": 49.99,
+      "stock": 35,
+      "images": [
+        "https://m.media-amazon.com/images/I/41IKpR4Q2KL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/510JsSQW0fL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41-8NDYG7dL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41ShJ8S1v9L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41datIlV8IL._AC_US40_.jpg"
+      ],
+      "category": "Case Fan",
+      "brand": "Noctua"
+    },
+    {
+      "name": "Cooler Master SickleFlow 120 ARGB Case Fan",
+      "description": "The Cooler Master SickleFlow 120 ARGB Case Fan combines high performance with vibrant lighting to enhance system cooling.",
+      "price": 34.99,
+      "stock": 45,
+      "images": [
+        "https://m.media-amazon.com/images/I/416I+vKlpxL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51Q6cGO9urL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41q6uFihyjL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51tfg5CAfwL._AC_US40_.jpg"
+      ],
+      "category": "Case Fan",
+      "brand": "Cooler Master"
+    },
+    {
+      "name": "Thermaltake Riing 12 LED Case Fan",
+      "description": "Experience quiet operation and brilliant lighting with the Thermaltake Riing 12 LED Case Fan, designed for efficient airflow.",
+      "price": 24.99,
+      "stock": 60,
+      "images": [
+        "https://m.media-amazon.com/images/I/31MaqbismsL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/418UkrpbEnL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41IBTrflw-L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41x+os5W8JL._AC_US40_.jpg"
+      ],
+      "category": "Case Fan",
+      "brand": "Thermaltake"
+    },
+    {
+      "name": "be quiet! Silent Wings 3 Case Fan",
+      "description": "The be quiet! Silent Wings 3 Case Fan is engineered for near-silent performance with superior cooling efficiency.",
+      "price": 29.99,
+      "stock": 55,
+      "images": [
+        "https://m.media-amazon.com/images/I/41lTco1TVxL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51UQ0-7yS5L._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41B83asuPiL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/21a1jwKAeML._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31BoFq7s5vL._SX38_SY50_CR,0,0,38,50_.jpg"
+      ],
+      "category": "Case Fan",
+      "brand": "be quiet!"
+    },
+    {
+      "name": "Arctic F12 PWM Case Fan",
+      "description": "The Arctic F12 PWM Case Fan offers excellent performance at a low price, providing optimal airflow for budget builds.",
+      "price": 19.99,
+      "stock": 70,
+      "images": [
+        "https://m.media-amazon.com/images/I/416I+vKlpxL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51Q6cGO9urL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41q6uFihyjL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51tfg5CAfwL._AC_US40_.jpg"
+      ],
+      "category": "Case Fan",
+      "brand": "Arctic"
+    },
+    {
+      "name": "Deepcool RF120 Case Fan",
+      "description": "The Deepcool RF120 delivers high static pressure and quiet performance, ideal for cooling radiators and densely packed systems.",
+      "price": 22.99,
+      "stock": 65,
+      "images": [
+        "https://m.media-amazon.com/images/I/41U-rfo4+uL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41pEPgnN7fL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41SYBdqnYZL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51Zp-UuJJJL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41RE6N75zoL._SX38_SY50_CR,0,0,38,50_.jpg"
+      ],
+      "category": "Case Fan",
+      "brand": "Deepcool"
+    },
+    {
+      "name": "Phanteks PH-F120MP Case Fan",
+      "description": "The Phanteks PH-F120MP offers superior airflow and static pressure for improved cooling in high-performance PCs.",
+      "price": 27.99,
+      "stock": 40,
+      "images": [
+        "https://m.media-amazon.com/images/I/41U-rfo4+uL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41pEPgnN7fL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41SYBdqnYZL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51Zp-UuJJJL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41RE6N75zoL._SX38_SY50_CR,0,0,38,50_.jpg"
+      ],
+      "category": "Case Fan",
+      "brand": "Phanteks"
+    },
+    {
+      "name": "SilverStone Air Penetrator Case Fan",
+      "description": "Designed for maximum airflow, the SilverStone Air Penetrator Case Fan features a unique design to reduce turbulence.",
+      "price": 32.99,
+      "stock": 30,
+      "images": [
+        "https://m.media-amazon.com/images/I/41axmaIGmnL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51UfVSmRpfL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41iT0Eubf7L._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41rUBemJpPL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41wJtvNXYwL._SX38_SY50_CR,0,0,38,50_.jpg"
+      ],
+      "category": "Case Fan",
+      "brand": "SilverStone"
+    },
+    {
+      "name": "Cooler Master MasterFan MF120R ARGB Case Fan",
+      "description": "The Cooler Master MasterFan MF120R ARGB offers stunning lighting effects and high performance for optimal system cooling.",
+      "price": 29.99,
+      "stock": 50,
+      "images": [
+        "https://m.media-amazon.com/images/I/41MdMR+YAIL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51MA7Fj0LyL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41phh-TcicL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41b6qo-gnbL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41qbtJRoSTL._SX38_SY50_CR,0,0,38,50_.jpg"
+      ],
+      "category": "Case Fan",
+      "brand": "Cooler Master"
+    },
+    {
+      "name": "Corsair LL120 RGB Case Fan",
+      "description": "The Corsair LL120 RGB Case Fan features dual light loops for mesmerizing lighting effects and excellent cooling performance.",
+      "price": 44.99,
+      "stock": 35,
+      "images": [
+        "https://m.media-amazon.com/images/I/416I+vKlpxL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51Q6cGO9urL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41q6uFihyjL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51tfg5CAfwL._AC_US40_.jpg"
+      ],
+      "category": "Case Fan",
+      "brand": "Corsair"
+    },
+    {
+      "name": "Noctua NF-P12 redux-1700 PWM Case Fan",
+      "description": "The Noctua NF-P12 redux-1700 PWM is a budget-friendly case fan delivering reliable airflow and quiet operation.",
+      "price": 24.99,
+      "stock": 45,
+      "images": [
+        "https://m.media-amazon.com/images/I/416I+vKlpxL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51Q6cGO9urL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41q6uFihyjL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51tfg5CAfwL._AC_US40_.jpg"
+      ],
+      "category": "Case Fan",
+      "brand": "Noctua"
+    },
+    {
+      "name": "Thermaltake Pure 12 LED Case Fan",
+      "description": "The Thermaltake Pure 12 LED Case Fan provides solid airflow and customizable lighting, perfect for both performance and aesthetics.",
+      "price": 19.99,
+      "stock": 55,
+      "images": [
+        "https://m.media-amazon.com/images/I/31MaqbismsL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/418UkrpbEnL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41IBTrflw-L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41x+os5W8JL._AC_US40_.jpg"
+      ],
+      "category": "Case Fan",
+      "brand": "Thermaltake"
+    },
+    {
+      "name": "be quiet! Pure Wings 2 Case Fan",
+      "description": "The be quiet! Pure Wings 2 offers high airflow and near-silent operation, making it ideal for a quiet PC build.",
+      "price": 22.99,
+      "stock": 60,
+      "images": [
+        "https://m.media-amazon.com/images/I/31TY-bFLrwL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41BNR6Div5L._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41o84Rz-t6L._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/31lj5NACjTL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41gy0cVzArL._SX38_SY50_CR,0,0,38,50_.jpg"
+      ],
+      "category": "Case Fan",
+      "brand": "be quiet!"
+    },
+    {
+      "name": "Arctic P12 PWM Case Fan",
+      "description": "The Arctic P12 PWM delivers reliable cooling performance with adjustable speed control, perfect for optimizing airflow.",
+      "price": 19.99,
+      "stock": 65,
+      "images": [
+        "https://m.media-amazon.com/images/I/416I+vKlpxL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51Q6cGO9urL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41q6uFihyjL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51tfg5CAfwL._AC_US40_.jpg"
+      ],
+      "category": "Case Fan",
+      "brand": "Arctic"
+    },
+    {
+      "name": "Deepcool CF120 Case Fan",
+      "description": "The Deepcool CF120 features a modern design and high airflow capabilities to keep your system running cool and quiet.",
+      "price": 24.99,
+      "stock": 55,
+      "images": [
+        "https://m.media-amazon.com/images/I/41MdMR+YAIL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51MA7Fj0LyL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41phh-TcicL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41b6qo-gnbL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41qbtJRoSTL._SX38_SY50_CR,0,0,38,50_.jpg"
+      ],
+      "category": "Case Fan",
+      "brand": "Deepcool"
+    },
+    {
+      "name": "Phanteks PH-F140MP Case Fan",
+      "description": "The Phanteks PH-F140MP offers a larger size with increased static pressure, ideal for high-performance cooling.",
+      "price": 34.99,
+      "stock": 40,
+      "images": [
+        "https://m.media-amazon.com/images/I/41qMqoJ0Q5L._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51IYhNFBs4L._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51gpH4jmvRL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41YJ9VgjGBL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41f8w+ZIo+L._SX38_SY50_CR,0,0,38,50_.jpg"
+      ],
+      "category": "Case Fan",
+      "brand": "Phanteks"
+    },
+    {
+      "name": "SilverStone Nightjar II Case Fan",
+      "description": "The SilverStone Nightjar II provides excellent airflow with a sleek design and quiet operation for premium builds.",
+      "price": 29.99,
+      "stock": 50,
+      "images": [
+        "https://m.media-amazon.com/images/I/41EHDORtaCL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51vKUsIaBDL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51q32Im48fL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51G8U1wFGaL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41rwjrczToL._AC_US40_.jpg"
+      ],
+      "category": "Case Fan",
+      "brand": "SilverStone"
+    },
+    {
+      "name": "Cooler Master SickleFlow 140 ARGB Case Fan",
+      "description": "The Cooler Master SickleFlow 140 ARGB offers a larger fan size for enhanced cooling and dynamic lighting effects.",
+      "price": 39.99,
+      "stock": 45,
+      "images": [
+        "https://m.media-amazon.com/images/I/41kivB9l6WL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51UUQxrIimL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41q6uFihyjL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51yc8CkhmrL._AC_US40_.jpg"
+      ],
+      "category": "Case Fan",
+      "brand": "Cooler Master"
+    },
+    {
+      "name": "Corsair AF140 LED Case Fan",
+      "description": "The Corsair AF140 LED Case Fan delivers optimized airflow with a quiet operation and striking LED lighting for enhanced aesthetics.",
+      "price": 29.99,
+      "stock": 40,
+      "images": [
+        "https://m.media-amazon.com/images/I/416I+vKlpxL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51Q6cGO9urL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41q6uFihyjL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51tfg5CAfwL._AC_US40_.jpg"
+      ],
+      "category": "Case Fan",
+      "brand": "Corsair"
+    },
+    {
+      "name": "Noctua NF-F12 PWM Case Fan",
+      "description": "The Noctua NF-F12 PWM is engineered for static pressure, making it an ideal choice for heatsinks and radiators.",
+      "price": 39.99,
+      "stock": 35,
+      "images": [
+        "https://m.media-amazon.com/images/I/416I+vKlpxL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51Q6cGO9urL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41q6uFihyjL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51tfg5CAfwL._AC_US40_.jpg"
+      ],
+      "category": "Case Fan",
+      "brand": "Noctua"
+    },
+    {
+      "name": "Thermaltake Riing Plus 12 Case Fan",
+      "description": "The Thermaltake Riing Plus 12 Case Fan features an upgraded LED design and enhanced cooling performance for visually striking builds.",
+      "price": 34.99,
+      "stock": 30,
+      "images": [
+        "https://m.media-amazon.com/images/I/31MaqbismsL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/418UkrpbEnL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41IBTrflw-L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41x+os5W8JL._AC_US40_.jpg"
+      ],
+      "category": "Case Fan",
+      "brand": "Thermaltake"
+    },
+    {
+      "name": "be quiet! Silent Wings 2 Case Fan",
+      "description": "The be quiet! Silent Wings 2 Case Fan is designed for ultra-quiet operation while delivering robust airflow for optimal system cooling.",
+      "price": 24.99,
+      "stock": 50,
+      "images": [
+        "https://m.media-amazon.com/images/I/41MdMR+YAIL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51MA7Fj0LyL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41phh-TcicL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41b6qo-gnbL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41qbtJRoSTL._SX38_SY50_CR,0,0,38,50_.jpg"
+      ],
+      "category": "Case Fan",
+      "brand": "be quiet!"
+    },
+    {
+      "name": "Arctic Cooling F9 PWM Case Fan",
+      "description": "The Arctic Cooling F9 PWM provides efficient cooling with adjustable speeds and quiet operation, perfect for any PC build.",
+      "price": 21.99,
+      "stock": 60,
+      "images": [
+        "https://m.media-amazon.com/images/I/317aA1v4JDL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51XS1AckuqL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51DLjyRNfNL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/41nUgcfCUsL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://m.media-amazon.com/images/I/51WnCtrzEJL._SX38_SY50_CR,0,0,38,50_.jpg"
+      ],
+      "category": "Case Fan",
+      "brand": "Arctic"
+    },
+    {
+      "name": "Corsair RM750x 750W 80+ Gold Power Supply",
+      "description": "The Corsair RM750x delivers reliable, efficient power with a fully modular design and 80+ Gold certification.",
+      "price": 119.99,
+      "stock": 20,
+      "images": [
+        "https://m.media-amazon.com/images/I/41ZqPIhHd6L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/413LxJy3noL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51VuyF6CEyL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51L7ZOAOicL._AC_US40_.jpg"
+      ],
+      "category": "Power Supply",
+      "brand": "Corsair"
+    },
+    {
+      "name": "EVGA SuperNOVA 650 G5 650W 80+ Gold Power Supply",
+      "description": "The EVGA SuperNOVA 650 G5 offers high efficiency and stable power delivery with a fully modular design.",
+      "price": 109.99,
+      "stock": 18,
+      "images": [
+        "https://m.media-amazon.com/images/I/41ZqPIhHd6L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/413LxJy3noL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51VuyF6CEyL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51L7ZOAOicL._AC_US40_.jpg"
+      ],
+      "category": "Power Supply",
+      "brand": "EVGA"
+    },
+    {
+      "name": "Seasonic Focus GX-750 750W 80+ Gold Power Supply",
+      "description": "The Seasonic Focus GX-750 provides clean, reliable power with 80+ Gold efficiency and full modularity.",
+      "price": 129.99,
+      "stock": 15,
+      "images": [
+        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_US40_.jpg"
+      ],
+      "category": "Power Supply",
+      "brand": "Seasonic"
+    },
+    {
+      "name": "Thermaltake Toughpower Grand RGB 850W 80+ Gold Power Supply",
+      "description": "The Thermaltake Toughpower Grand RGB 850W combines high performance with customizable RGB lighting for a striking look.",
+      "price": 139.99,
+      "stock": 12,
+      "images": [
+        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_US40_.jpg"
+      ],
+      "category": "Power Supply",
+      "brand": "Thermaltake"
+    },
+    {
+      "name": "Cooler Master MWE Gold 650W Power Supply",
+      "description": "The Cooler Master MWE Gold 650W offers efficient power delivery with an 80+ Gold rating and a compact design.",
+      "price": 89.99,
+      "stock": 25,
+      "images": [
+        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_US40_.jpg"
+      ],
+      "category": "Power Supply",
+      "brand": "Cooler Master"
+    },
+    {
+      "name": "be quiet! Straight Power 11 750W 80+ Gold Power Supply",
+      "description": "The be quiet! Straight Power 11 750W provides ultra-quiet operation and high efficiency for demanding systems.",
+      "price": 129.99,
+      "stock": 10,
+      "images": [
+        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_US40_.jpg"
+      ],
+      "category": "Power Supply",
+      "brand": "be quiet!"
+    },
+    {
+      "name": "FSP Hydro PTM 850W 80+ Platinum Power Supply",
+      "description": "The FSP Hydro PTM 850W offers exceptional efficiency with an 80+ Platinum rating and a fully modular design.",
+      "price": 149.99,
+      "stock": 8,
+      "images": [
+        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_US40_.jpg"
+      ],
+      "category": "Power Supply",
+      "brand": "FSP"
+    },
+    {
+      "name": "Antec High Current Pro 750W Power Supply",
+      "description": "The Antec High Current Pro 750W is designed for stable power delivery and reliable performance in high-demand systems.",
+      "price": 99.99,
+      "stock": 20,
+      "images": [
+        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_US40_.jpg"
+      ],
+      "category": "Power Supply",
+      "brand": "Antec"
+    },
+    {
+      "name": "Corsair CX650M 650W 80+ Bronze Power Supply",
+      "description": "The Corsair CX650M delivers dependable power with semi-modular cabling and an 80+ Bronze efficiency rating.",
+      "price": 69.99,
+      "stock": 30,
+      "images": [
+        "https://m.media-amazon.com/images/I/41ZqPIhHd6L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/413LxJy3noL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51VuyF6CEyL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51L7ZOAOicL._AC_US40_.jpg"
+      ],
+      "category": "Power Supply",
+      "brand": "Corsair"
+    },
+    {
+      "name": "EVGA 600 W1, 80+ White 600W Power Supply",
+      "description": "The EVGA 600 W1 offers affordable, reliable power delivery with an 80+ White certification, ideal for budget builds.",
+      "price": 49.99,
+      "stock": 35,
+      "images": [
+        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_US40_.jpg"
+      ],
+      "category": "Power Supply",
+      "brand": "EVGA"
+    },
+    {
+      "name": "Seasonic S12III 500W 80+ Bronze Power Supply",
+      "description": "The Seasonic S12III 500W provides solid performance and efficiency, making it a dependable choice for mid-range systems.",
+      "price": 54.99,
+      "stock": 40,
+      "images": [
+        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_US40_.jpg"
+      ],
+      "category": "Power Supply",
+      "brand": "Seasonic"
+    },
+    {
+      "name": "Thermaltake Smart 600W 80+ Certified Power Supply",
+      "description": "The Thermaltake Smart 600W offers reliable power with 80+ certification and a fully modular design for easy cable management.",
+      "price": 59.99,
+      "stock": 30,
+      "images": [
+        "https://m.media-amazon.com/images/I/41NA+qRaoXL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/410DPUqFFJL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/318e8WqrTcL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41E7rGiMwnL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41qE5TZcfIL._AC_US40_.jpg"
+      ],
+      "category": "Power Supply",
+      "brand": "Thermaltake"
+    },
+    {
+      "name": "Cooler Master MWE 550W 80+ Bronze Power Supply",
+      "description": "The Cooler Master MWE 550W is a budget-friendly power supply delivering efficient power for entry-level systems.",
+      "price": 49.99,
+      "stock": 50,
+      "images": [
+        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_US40_.jpg"
+      ],
+      "category": "Power Supply",
+      "brand": "Cooler Master"
+    },
+    {
+      "name": "be quiet! Pure Power 11 500W 80+ Gold Power Supply",
+      "description": "The be quiet! Pure Power 11 500W offers a balance of efficiency and silence, suitable for compact and mid-range systems.",
+      "price": 79.99,
+      "stock": 28,
+      "images": [
+        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_US40_.jpg"
+      ],
+      "category": "Power Supply",
+      "brand": "be quiet!"
+    },
+    {
+      "name": "FSP Dagger Pro 650W 80+ Gold SFX Power Supply",
+      "description": "The FSP Dagger Pro 650W is an SFX power supply delivering high efficiency and a compact design for small form factor builds.",
+      "price": 109.99,
+      "stock": 15,
+      "images": [
+        "https://m.media-amazon.com/images/I/41NA+qRaoXL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/410DPUqFFJL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/318e8WqrTcL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41E7rGiMwnL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41qE5TZcfIL._AC_US40_.jpg"
+      ],
+      "category": "Power Supply",
+      "brand": "FSP"
+    },
+    {
+      "name": "Antec Earthwatts Gold Pro 750W Power Supply",
+      "description": "The Antec Earthwatts Gold Pro 750W features high efficiency with an 80+ Gold rating and a durable, fully modular design.",
+      "price": 119.99,
+      "stock": 12,
+      "images": [
+        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_US40_.jpg"
+      ],
+      "category": "Power Supply",
+      "brand": "Antec"
+    },
+    {
+      "name": "Corsair SF750 750W 80+ Platinum SFX Power Supply",
+      "description": "The Corsair SF750 offers top-tier efficiency in a compact SFX form factor, perfect for high-performance mini-ITX builds.",
+      "price": 179.99,
+      "stock": 10,
+      "images": [
+        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_US40_.jpg"
+      ],
+      "category": "Power Supply",
+      "brand": "Corsair"
+    },
+    {
+      "name": "EVGA SuperNOVA 1000 G5 1000W 80+ Gold Power Supply",
+      "description": "The EVGA SuperNOVA 1000 G5 provides ultra-stable power delivery with a 1000W capacity and full modularity for demanding systems.",
+      "price": 219.99,
+      "stock": 8,
+      "images": [
+        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_US40_.jpg"
+      ],
+      "category": "Power Supply",
+      "brand": "EVGA"
+    },
+    {
+      "name": "Seasonic PRIME TX-850 850W 80+ Titanium Power Supply",
+      "description": "The Seasonic PRIME TX-850 offers uncompromising efficiency with an 80+ Titanium rating and exceptional build quality.",
+      "price": 269.99,
+      "stock": 6,
+      "images": [
+        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_US40_.jpg"
+      ],
+      "category": "Power Supply",
+      "brand": "Seasonic"
+    },
+    {
+      "name": "Thermaltake Toughpower DPS G RGB 850W Power Supply",
+      "description": "The Thermaltake Toughpower DPS G RGB combines high performance with customizable RGB lighting, delivering reliable power for gaming systems.",
+      "price": 159.99,
+      "stock": 9,
+      "images": [
+        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_US40_.jpg"
+      ],
+      "category": "Power Supply",
+      "brand": "Thermaltake"
+    },
+    {
+      "name": "Cooler Master V850 850W 80+ Gold Power Supply",
+      "description": "The Cooler Master V850 offers robust power delivery with an 80+ Gold efficiency rating, ensuring stable performance for high-end builds.",
+      "price": 139.99,
+      "stock": 10,
+      "images": [
+        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_US40_.jpg"
+      ],
+      "category": "Power Supply",
+      "brand": "Cooler Master"
+    },
+    {
+      "name": "be quiet! Dark Power Pro 12 1200W 80+ Titanium Power Supply",
+      "description": "The be quiet! Dark Power Pro 12 delivers exceptional power and efficiency with a 1200W capacity and 80+ Titanium certification.",
+      "price": 299.99,
+      "stock": 5,
+      "images": [
+        "https://m.media-amazon.com/images/I/51bGTav5QvL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51WpfRLIjzL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51bl1aSWcUL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51VSxrR4LbL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41+81jkxckL._AC_US40_.jpg"
+      ],
+      "category": "Power Supply",
+      "brand": "be quiet!"
+    },
+    {
+      "name": "FSP Hydro G Pro 850W 80+ Gold Power Supply",
+      "description": "The FSP Hydro G Pro 850W offers high efficiency and stable power delivery in a sleek, fully modular design.",
+      "price": 129.99,
+      "stock": 14,
+      "images": [
+        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_US40_.jpg"
+      ],
+      "category": "Power Supply",
+      "brand": "FSP"
+    },
+    {
+      "name": "Antec Signature Series 750W 80+ Platinum Power Supply",
+      "description": "The Antec Signature Series 750W combines high efficiency with a premium build, delivering reliable power for elite systems.",
+      "price": 149.99,
+      "stock": 10,
+      "images": [
+        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_US40_.jpg"
+      ],
+      "category": "Power Supply",
+      "brand": "Antec"
+    },
+    {
+      "name": "Corsair AX1600i 1600W 80+ Titanium Power Supply",
+      "description": "The Corsair AX1600i offers unparalleled performance and efficiency with a massive 1600W capacity and 80+ Titanium certification.",
+      "price": 499.99,
+      "stock": 3,
+      "images": [
+        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_US40_.jpg"
+      ],
+      "category": "Power Supply",
+      "brand": "Corsair"
+    },
+    {
+      "name": "ASUS ROG Strix X570-E Gaming Motherboard",
+      "description": "The ASUS ROG Strix X570-E delivers premium performance with PCIe 4.0 support, robust power delivery, and advanced cooling features.",
+      "price": 299.99,
+      "stock": 12,
+      "images": [
+        "https://m.media-amazon.com/images/I/41sPRYUb+wL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/414hfCS3maL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41doNqAKxJL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/415GXFF4uyL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41D7QhDlxaL._AC_US40_.jpg"
+      ],
+      "category": "Motherboard",
+      "brand": "ASUS"
+    },
+    {
+      "name": "MSI MPG B550 Gaming Edge WiFi Motherboard",
+      "description": "The MSI MPG B550 Gaming Edge WiFi offers solid performance with integrated WiFi and support for AMD Ryzen processors.",
+      "price": 189.99,
+      "stock": 15,
+      "images": [
+        "https://m.media-amazon.com/images/I/516Z3oof0TL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51Dy6z5dJiL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51ONbU5YL5L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51qLcM0ZN0L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51VJV8a0V-L._AC_US40_.jpg"
+      ],
+      "category": "Motherboard",
+      "brand": "MSI"
+    },
+    {
+      "name": "Gigabyte AORUS X570 Master Motherboard",
+      "description": "The Gigabyte AORUS X570 Master provides high-end performance with advanced cooling and robust connectivity options.",
+      "price": 329.99,
+      "stock": 10,
+      "images": [
+        "https://m.media-amazon.com/images/I/41KKG6GKlrL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41-Hi1rq-pL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41y+Zg33IVL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31yw0-Z20sL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/415im2uMgyL._AC_US40_.jpg"
+      ],
+      "category": "Motherboard",
+      "brand": "Gigabyte"
+    },
+    {
+      "name": "ASRock B550 Phantom Gaming 4 Motherboard",
+      "description": "The ASRock B550 Phantom Gaming 4 is designed for gamers, offering reliable performance and a suite of features at an affordable price.",
+      "price": 129.99,
+      "stock": 20,
+      "images": [
+        "https://m.media-amazon.com/images/I/516x0fxZtSL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51b1-KtCAWL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41eaavh36iL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41RivsheuoL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/510TUQgHKSL._AC_US40_.jpg"
+      ],
+      "category": "Motherboard",
+      "brand": "ASRock"
+    },
+    {
+      "name": "EVGA Z490 FTW Gaming Motherboard",
+      "description": "The EVGA Z490 FTW is built for Intel processors, featuring advanced overclocking capabilities and robust power delivery.",
+      "price": 249.99,
+      "stock": 8,
+      "images": [
+        "https://m.media-amazon.com/images/I/314qtgeYpmL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41-LysfVE1L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41mAGqTbLBL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31Y2sslEPML._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31D+fNa+XaL._AC_US40_.jpg"
+      ],
+      "category": "Motherboard",
+      "brand": "EVGA"
+    },
+    {
+      "name": "ASUS TUF Gaming Z590-Plus WiFi 6 Motherboard",
+      "description": "The ASUS TUF Gaming Z590-Plus WiFi 6 combines durability with cutting-edge performance for Intel-based gaming rigs.",
+      "price": 279.99,
+      "stock": 10,
+      "images": [
+        "https://m.media-amazon.com/images/I/41scqVucSuL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41KVopRxkEL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41ngyKWLHhL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41uvRGSMvpL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41fZMDzBRTL._AC_US40_.jpg"
+      ],
+      "category": "Motherboard",
+      "brand": "ASUS"
+    },
+    {
+      "name": "MSI MEG X570 Unify Motherboard",
+      "description": "The MSI MEG X570 Unify delivers top-tier performance with extensive connectivity and robust power design, ideal for high-end builds.",
+      "price": 349.99,
+      "stock": 6,
+      "images": [
+        "https://m.media-amazon.com/images/I/51EaUk8kKBL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51AEYafTsQL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51nmCHsDjpL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51cZlvha5dL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41UeKNduQ9L._AC_US40_.jpg"
+      ],
+      "category": "Motherboard",
+      "brand": "MSI"
+    },
+    {
+      "name": "Gigabyte B450 AORUS Pro WiFi Motherboard",
+      "description": "The Gigabyte B450 AORUS Pro WiFi offers solid performance for AMD Ryzen processors with integrated WiFi and a durable design.",
+      "price": 109.99,
+      "stock": 25,
+      "images": [
+        "https://m.media-amazon.com/images/I/51cI5L-pMpL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51aNGP5reeL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51KDzHYOuEL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51ZN+u23MhL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41nelWXIJ8L._AC_US40_.jpg"
+      ],
+      "category": "Motherboard",
+      "brand": "Gigabyte"
+    },
+    {
+      "name": "ASRock X570 Phantom Gaming ITX Motherboard",
+      "description": "Designed for compact builds, the ASRock X570 Phantom Gaming ITX provides high performance in a small form factor.",
+      "price": 199.99,
+      "stock": 12,
+      "images": [
+        "https://m.media-amazon.com/images/I/516x0fxZtSL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51b1-KtCAWL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41eaavh36iL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41RivsheuoL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/510TUQgHKSL._AC_US40_.jpg"
+      ],
+      "category": "Motherboard",
+      "brand": "ASRock"
+    },
+    {
+      "name": "EVGA Z590 DARK Motherboard",
+      "description": "The EVGA Z590 DARK is engineered for extreme overclocking and high performance with advanced thermal solutions for Intel systems.",
+      "price": 399.99,
+      "stock": 5,
+      "images": [
+        "https://m.media-amazon.com/images/I/31mQaCkBsMS._AC_US40_.jpg"
+      ],
+      "category": "Motherboard",
+      "brand": "EVGA"
+    },
+    {
+      "name": "ASUS Prime X570-Pro Motherboard",
+      "description": "The ASUS Prime X570-Pro offers a balanced mix of performance and reliability with comprehensive cooling and connectivity options.",
+      "price": 239.99,
+      "stock": 15,
+      "images": [
+        "https://m.media-amazon.com/images/I/51W55Yc7DbL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51TeYpAzjiL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51nbrb3BadL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41ZCWVXhCHL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31jCZBiPc1L._AC_US40_.jpg"
+      ],
+      "category": "Motherboard",
+      "brand": "ASUS"
+    },
+    {
+      "name": "MSI MAG B550 Tomahawk Motherboard",
+      "description": "The MSI MAG B550 Tomahawk delivers excellent performance and stability for AMD builds with a robust power design and cool aesthetics.",
+      "price": 159.99,
+      "stock": 18,
+      "images": [
+        "https://m.media-amazon.com/images/I/413ta3PMG4L._AC_US40_.jpg"
+      ],
+      "category": "Motherboard",
+      "brand": "MSI"
+    },
+    {
+      "name": "Gigabyte Z490 AORUS Elite AC Motherboard",
+      "description": "The Gigabyte Z490 AORUS Elite AC provides advanced features and reliable performance for Intel processors, featuring integrated WiFi.",
+      "price": 219.99,
+      "stock": 10,
+      "images": [
+        "https://m.media-amazon.com/images/I/51HZ7bYOxhL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41Ch+okYhAL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41jUGL27liL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/418KBHJR9qL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/319w8ZPn4fL._AC_US40_.jpg"
+      ],
+      "category": "Motherboard",
+      "brand": "Gigabyte"
+    },
+    {
+      "name": "ASRock B550 Steel Legend Motherboard",
+      "description": "The ASRock B550 Steel Legend combines durability with performance, featuring a striking design and comprehensive connectivity.",
+      "price": 149.99,
+      "stock": 22,
+      "images": [
+        "https://m.media-amazon.com/images/I/41FuX8xFPNL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51m0D2bfnvL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51KPTsjPgOL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41khbd9zmGL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41PQ0bJlJnL._AC_US40_.jpg"
+      ],
+      "category": "Motherboard",
+      "brand": "ASRock"
+    },
+    {
+      "name": "EVGA Z490 FTW WiFi Motherboard",
+      "description": "The EVGA Z490 FTW WiFi offers advanced overclocking features and robust power delivery, tailored for competitive Intel gaming.",
+      "price": 259.99,
+      "stock": 7,
+      "images": [
+        "https://m.media-amazon.com/images/I/31mQaCkBsMS._AC_US40_.jpg"
+      ],
+      "category": "Motherboard",
+      "brand": "EVGA"
+    },
+    {
+      "name": "ASUS ROG Strix B550-F Gaming Motherboard",
+      "description": "The ASUS ROG Strix B550-F Gaming motherboard provides excellent performance and RGB lighting, perfect for AMD gaming systems.",
+      "price": 189.99,
+      "stock": 14,
+      "images": [
+        "https://m.media-amazon.com/images/I/41fWoqI9XJL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41wWAfn6myL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41R3PusBF+L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51XgwFW6xWL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41CFbn6Iw1L._AC_US40_.jpg"
+      ],
+      "category": "Motherboard",
+      "brand": "ASUS"
+    },
+    {
+      "name": "MSI MPG Z490 Gaming Carbon WiFi Motherboard",
+      "description": "The MSI MPG Z490 Gaming Carbon WiFi offers cutting-edge features, high-quality components, and built-in WiFi for Intel systems.",
+      "price": 299.99,
+      "stock": 9,
+      "images": [
+        "https://m.media-amazon.com/images/I/51tSR+WZ8kL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41bZZTHLN5L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/414mb+Y30fL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41XMEdFVmfL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31LgB7VcRNL._AC_US40_.jpg"
+      ],
+      "category": "Motherboard",
+      "brand": "MSI"
+    },
+    {
+      "name": "Gigabyte AORUS B550 Pro AC Motherboard",
+      "description": "The Gigabyte AORUS B550 Pro AC features high-speed connectivity and robust power delivery, optimized for AMD Ryzen processors.",
+      "price": 169.99,
+      "stock": 16,
+      "images": [
+        "https://m.media-amazon.com/images/I/41jKV7W+mdL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41Q+Rk3WqaL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41Ui6NBPc7L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/512Y6gOSkyL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41KtesAwYrL._AC_US40_.jpg"
+      ],
+      "category": "Motherboard",
+      "brand": "Gigabyte"
+    },
+    {
+      "name": "ASRock X299 Taichi CLX Motherboard",
+      "description": "The ASRock X299 Taichi CLX offers extreme performance for high-end desktop systems with advanced cooling and overclocking capabilities.",
+      "price": 499.99,
+      "stock": 4,
+      "images": [
+        "https://m.media-amazon.com/images/I/410tiTowqxL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41XPwvnWCoL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31DDRjs+QfL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/514tB0lYp5L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51Sz57qbRlL._AC_US40_.jpg"
+      ],
+      "category": "Motherboard",
+      "brand": "ASRock"
+    },
+    {
+      "name": "EVGA X570 FTW Motherboard",
+      "description": "The EVGA X570 FTW is designed for AMD processors, offering robust features and high-quality components for demanding builds.",
+      "price": 329.99,
+      "stock": 6,
+      "images": [
+        "https://m.media-amazon.com/images/I/41jKV7W+mdL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41Q+Rk3WqaL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41Ui6NBPc7L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/512Y6gOSkyL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41KtesAwYrL._AC_US40_.jpg"
+      ],
+      "category": "Motherboard",
+      "brand": "EVGA"
+    },
+    {
+      "name": "ASUS ROG Crosshair VIII Hero Motherboard",
+      "description": "The ASUS ROG Crosshair VIII Hero is a flagship motherboard offering unrivaled performance and extensive customization for AMD systems.",
+      "price": 399.99,
+      "stock": 5,
+      "images": [
+        "https://m.media-amazon.com/images/I/31IJtsrUEKL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51UeX5GAhML._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/21JA2IzFUBL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41J5BMOzZfL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41N2Zg3WYCL._AC_US40_.jpg"
+      ],
+      "category": "Motherboard",
+      "brand": "ASUS"
+    },
+    {
+      "name": "MSI MEG Z490 ACE Motherboard",
+      "description": "The MSI MEG Z490 ACE is built for enthusiasts, offering premium features, robust power delivery, and advanced cooling solutions for Intel builds.",
+      "price": 349.99,
+      "stock": 7,
+      "images": [
+        "https://m.media-amazon.com/images/I/41MOH-GcjQL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51xh4puNHLL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/519MPqTHhOL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51h2P9Gl7lL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/413CN4XvisL._AC_US40_.jpg"
+      ],
+      "category": "Motherboard",
+      "brand": "MSI"
+    },
+    {
+      "name": "Gigabyte X570 AORUS Elite WiFi Motherboard",
+      "description": "The Gigabyte X570 AORUS Elite WiFi combines performance with advanced connectivity features, optimized for AMD Ryzen systems.",
+      "price": 209.99,
+      "stock": 10,
+      "images": [
+        "https://m.media-amazon.com/images/I/411pxVVln7L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41EThMPHuSL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41NuWUnkRlL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31x-hfFAxeL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41cxC56bqQL._AC_SR38,50_.jpg"
+      ],
+      "category": "Motherboard",
+      "brand": "Gigabyte"
+    },
+    {
+      "name": "ASRock Phantom Gaming 4 Motherboard",
+      "description": "The ASRock Phantom Gaming 4 offers a balance of performance and features at a competitive price, ideal for budget gaming builds.",
+      "price": 119.99,
+      "stock": 20,
+      "images": [
+        "https://m.media-amazon.com/images/I/516x0fxZtSL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51b1-KtCAWL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41eaavh36iL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41RivsheuoL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/510TUQgHKSL._AC_US40_.jpg"
+      ],
+      "category": "Motherboard",
+      "brand": "ASRock"
+    },
+    {
+      "name": "EVGA Z590 FTW WiFi K Motherboard",
+      "description": "The EVGA Z590 FTW WiFi K delivers exceptional overclocking performance and robust connectivity, tailored for Intel gaming systems.",
+      "price": 279.99,
+      "stock": 8,
+      "images": [
+        "https://m.media-amazon.com/images/I/419f2ElfnnL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51K+5rNV20L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/51m0wnHoYoL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31JLjjkZHeL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41q8VVd9agL._AC_US40_.jpg"
+      ],
+      "category": "Motherboard",
+      "brand": "EVGA"
+    }
+  ]
+}
