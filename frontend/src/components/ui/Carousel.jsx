@@ -7,18 +7,18 @@ const Carousel = () => {
     const slides = [
         {
             src: '/PcGaming.webp',
-            alt: 'Naturaleza',
-            text: 'Descubre la belleza natural',
+            alt: 'Laptops',
+            text: 'Los mejores productos',
         },
         {
             src: '/images.jpg',
-            alt: 'Tecnología',
+            alt: 'Pc',
             text: 'Innovación tecnológica',
         },
         {
             src: '/images (1).jpg',
-            alt: 'Arquitectura',
-            text: 'Diseños arquitectónicos modernos',
+            alt: 'GPU',
+            text: 'Componentes de calidad',
         },
     ]
 
