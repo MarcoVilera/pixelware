@@ -1,7 +1,7 @@
 import express from 'express'
 import { json } from 'express'
 import { connect } from 'mongoose'
-import reviewRouter from './routes/productsRoutes.js'
+import reviewRouter from './routes/reviewRoutes.js'
 const app = express()
 app.use(json())
 

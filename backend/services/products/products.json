@@ -6,8 +6,8 @@
       "price": 299.99,
       "stock": 10,
       "images": [
-        "https://m.media-amazon.com/images/I/31+mOYoQM6L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/31OlytR583L._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/31+mOYoQM6L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/31OlytR583L._AC_SL1500_.jpg",
         "https://m.media-amazon.com/images/I/51Cr3szVfuL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg"
       ],
       "category": "CPU",
@@ -19,10 +19,10 @@
       "price": 529.99,
       "stock": 5,
       "images": [
-        "https://m.media-amazon.com/images/I/41grpwhp8hL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41y91XADvDL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41+fj+iBn5L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51v-Nm7FIDL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41grpwhp8hL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41y91XADvDL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41+fj+iBn5L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51v-Nm7FIDL._AC_SL1500_.jpg",
         "https://m.media-amazon.com/images/I/51hXUc3ZziL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg"
       ],
       "category": "CPU",
@@ -34,11 +34,11 @@
       "price": 699.99,
       "stock": 3,
       "images": [
-        "https://m.media-amazon.com/images/I/41G0-twEyLL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51aihdcn3rL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41TpdnH9VsL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/418ytkKMKbL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/515RQwyWq6L._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41G0-twEyLL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51aihdcn3rL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41TpdnH9VsL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/418ytkKMKbL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/515RQwyWq6L._AC_SL1500_.jpg"
       ],
       "category": "GPU",
       "brand": "NVIDIA"
@@ -49,11 +49,11 @@
       "price": 649.99,
       "stock": 7,
       "images": [
-        "https://m.media-amazon.com/images/I/41G0-twEyLL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51aihdcn3rL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41TpdnH9VsL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/418ytkKMKbL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/515RQwyWq6L._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41G0-twEyLL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51aihdcn3rL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41TpdnH9VsL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/418ytkKMKbL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/515RQwyWq6L._AC_SL1500_.jpg"
       ],
       "brand": "AMD",
       "category": "GPU"
@@ -64,11 +64,11 @@
       "price": 139.99,
       "stock": 15,
       "images": [
-        "https://m.media-amazon.com/images/I/41z1cgIi0IL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51p2fjkA4VL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51falu7IY1L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51uZPgGqCvL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/515-O4Fpy9L._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41z1cgIi0IL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51p2fjkA4VL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51falu7IY1L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51uZPgGqCvL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/515-O4Fpy9L._AC_SL1500_.jpg"
       ],
       "category": "Memory",
       "brand": "Corsair"
@@ -79,11 +79,11 @@
       "price": 79.99,
       "stock": 20,
       "images": [
-        "https://m.media-amazon.com/images/I/410oydc3yrL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51Y+OhcDvyL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51mHeRNEcPL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51tML1HCYqL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/515w0d7ukfL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/410oydc3yrL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51Y+OhcDvyL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51mHeRNEcPL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51tML1HCYqL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/515w0d7ukfL._AC_SL1500_.jpg"
       ],
       "category": "Memory",
       "brand": "G.Skill"
@@ -94,11 +94,11 @@
       "price": 149.99,
       "stock": 10,
       "images": [
-        "https://m.media-amazon.com/images/I/41jCYeGpShL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51-Og-FVcbL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51O0vbmW9KL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51DWvRrH4vL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41+kBu7828L._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41jCYeGpShL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51-Og-FVcbL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51O0vbmW9KL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51DWvRrH4vL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41+kBu7828L._AC_SL1500_.jpg"
       ],
       "category": "Storage",
       "brand": "Samsung"
@@ -109,11 +109,11 @@
       "price": 59.99,
       "stock": 15,
       "images": [
-        "https://m.media-amazon.com/images/I/31JeF0qtdsL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/518jTNxRrtL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51Xf+egnCrL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/5175Fh3CK7L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/515Mlqz-kqL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/31JeF0qtdsL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/518jTNxRrtL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51Xf+egnCrL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/5175Fh3CK7L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/515Mlqz-kqL._AC_SL1500_.jpg"
       ],
       "category": "Storage",
       "brand": "Crucial"
@@ -124,11 +124,11 @@
       "price": 69.99,
       "stock": 10,
       "images": [
-        "https://m.media-amazon.com/images/I/419hCVITaxL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41ZSRmzX6SL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51efYIFyP0L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41rcmVDchsL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51JJ4eWPMcL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/419hCVITaxL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41ZSRmzX6SL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51efYIFyP0L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41rcmVDchsL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51JJ4eWPMcL._AC_SL1500_.jpg"
       ],
       "category": "Case",
       "brand": "NZXT"
@@ -139,11 +139,11 @@
       "price": 139.99,
       "stock": 5,
       "images": [
-        "https://m.media-amazon.com/images/I/41ZqPIhHd6L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/413LxJy3noL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51VuyF6CEyL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51L7ZOAOicL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41ZqPIhHd6L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/413LxJy3noL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51VuyF6CEyL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51L7ZOAOicL._AC_SL1500_.jpg"
       ],
       "category": "Power Supply",
       "brand": "Corsair"
@@ -154,11 +154,11 @@
       "price": 299.99,
       "stock": 30,
       "images": [
-        "https://m.media-amazon.com/images/I/41rLTbzOeAL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51dWt+NjreL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51Srm6eyikL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/418bpHSHAjL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41+ffZ-cYML._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41rLTbzOeAL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51dWt+NjreL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51Srm6eyikL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/418bpHSHAjL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41+ffZ-cYML._AC_SL1500_.jpg"
       ],
       "category": "Monitor",
       "brand": "Asus"
@@ -169,11 +169,11 @@
       "price": 149.99,
       "stock": 70,
       "images": [
-        "https://m.media-amazon.com/images/I/412XVsqTz2L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/31NZfLcelLL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41wa9K9pyoL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41JnQDw5VOL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51Ki01xlUqL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/412XVsqTz2L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/31NZfLcelLL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41wa9K9pyoL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41JnQDw5VOL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51Ki01xlUqL._AC_SL1500_.jpg"
       ],
       "category": "Mouse",
       "brand": "Logitech"
@@ -184,11 +184,11 @@
       "price": 229.99,
       "stock": 8,
       "images": [
-        "https://m.media-amazon.com/images/I/41vu5yPY0tL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41Z9UziNqLL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41BTi9cHeQL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51Aqk524azL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41jfPbWUhKL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41vu5yPY0tL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41Z9UziNqLL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41BTi9cHeQL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51Aqk524azL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41jfPbWUhKL._AC_SL1500_.jpg"
       ],
       "category": "Keyboard",
       "brand": "Razer"
@@ -199,11 +199,11 @@
       "price": 99.99,
       "stock": 25,
       "images": [
-        "https://m.media-amazon.com/images/I/31uPVahywKL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/411TJSb-VeL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/417H5gwL4KL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41npOaI4mJL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/412yn0iKqKL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/31uPVahywKL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/411TJSb-VeL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/417H5gwL4KL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41npOaI4mJL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/412yn0iKqKL._AC_SL1500_.jpg"
       ],
       "category": "Headset",
       "brand": "HyperX"
@@ -214,11 +214,11 @@
       "price": 89.99,
       "stock": 1,
       "images": [
-        "https://m.media-amazon.com/images/I/415m9-P9lmL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51abwfnIMlL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41sS9SC00fL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51TvUfZxSHL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/5105LpkEY3L._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/415m9-P9lmL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51abwfnIMlL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41sS9SC00fL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51TvUfZxSHL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/5105LpkEY3L._AC_SL1500_.jpg"
       ],
       "category": "Streaming",
       "brand": "Elgato"
@@ -229,11 +229,11 @@
       "price": 129.99,
       "stock": 10,
       "images": [
-        "https://m.media-amazon.com/images/I/31pTI1L19nL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41noGFr7idL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41YQEofuzvL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51KWHhpp+oL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51iaeJId7rL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/31pTI1L19nL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41noGFr7idL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41YQEofuzvL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51KWHhpp+oL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51iaeJId7rL._AC_SL1500_.jpg"
       ],
       "category": "Microphone",
       "brand": "Blue"
@@ -244,11 +244,11 @@
       "price": 899.99,
       "stock": 10,
       "images": [
-        "https://m.media-amazon.com/images/I/41GDuvVk4kL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41lqcKG8pJL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41zMVOZk-UL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/314ssOfeV4L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41kMag0iIML._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41GDuvVk4kL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41lqcKG8pJL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41zMVOZk-UL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/314ssOfeV4L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41kMag0iIML._AC_SL1500_.jpg"
       ],
       "category": "Camera",
       "brand": "Sony"
@@ -274,11 +274,11 @@
       "price": 1099.99,
       "stock": 12,
       "images": [
-        "https://m.media-amazon.com/images/I/21C5PpQ0MIL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51Jc-vXLJlL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41x18t2Ae8L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51cbZ9dDajL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51Xn1bIncvL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/21C5PpQ0MIL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51Jc-vXLJlL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41x18t2Ae8L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51cbZ9dDajL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51Xn1bIncvL._AC_SL1500_.jpg"
       ],
       "category": "Smartphone",
       "brand": "Apple"
@@ -289,11 +289,11 @@
       "price": 1299.99,
       "stock": 8,
       "images": [
-        "https://m.media-amazon.com/images/I/518XDWAYenL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41FLqLXZGGL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/31va+qfLqDL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/31tHdWrFz2L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/512T5vi4pKL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/518XDWAYenL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41FLqLXZGGL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/31va+qfLqDL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/31tHdWrFz2L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/512T5vi4pKL._AC_SL1500_.jpg"
       ],
       "category": "Laptop",
       "brand": "Apple"
@@ -304,11 +304,11 @@
       "price": 1199.99,
       "stock": 10,
       "images": [
-        "https://m.media-amazon.com/images/I/41GXhWNP7hL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41ZG7haxJFL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/416lcYh9jEL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41YEOLsX9pL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41LRUn0lxfL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41GXhWNP7hL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41ZG7haxJFL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/416lcYh9jEL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41YEOLsX9pL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41LRUn0lxfL._AC_SL1500_.jpg"
       ],
       "category": "Laptop",
       "brand": "Dell"
@@ -319,11 +319,11 @@
       "price": 999.99,
       "stock": 13,
       "images": [
-        "https://m.media-amazon.com/images/I/41oqBn6-1xL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41DvLDdveWL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41y-JrX34tL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51p8gcRQrxL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/416-dm8yDQL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41oqBn6-1xL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41DvLDdveWL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41y-JrX34tL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51p8gcRQrxL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/416-dm8yDQL._AC_SL1500_.jpg"
       ],
       "category": "Laptop",
       "brand": "Lenovo"
@@ -334,11 +334,11 @@
       "price": 999.99,
       "stock": 10,
       "images": [
-        "https://m.media-amazon.com/images/I/41OAYNiMobL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41xc+gyTcbL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41wVv29S69L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51tVimoXQ1L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/413nJkqggbL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41OAYNiMobL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41xc+gyTcbL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41wVv29S69L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51tVimoXQ1L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/413nJkqggbL._AC_SL1500_.jpg"
       ],
       "category": "Laptop",
       "brand": "Apple"
@@ -349,11 +349,11 @@
       "price": 699.99,
       "stock": 5,
       "images": [
-        "https://m.media-amazon.com/images/I/51KiWCXSuSL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51zKQnox2LL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51-sk7MG2GL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51YHjepF3dL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41MJ6acFNUL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/51KiWCXSuSL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51zKQnox2LL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51-sk7MG2GL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51YHjepF3dL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41MJ6acFNUL._AC_SL1500_.jpg"
       ],
       "category": "Monitor",
       "brand": "Samsung"
@@ -364,11 +364,11 @@
       "price": 399.99,
       "stock": 10,
       "images": [
-        "https://m.media-amazon.com/images/I/51+ffurACJL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/518DouGSDkL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/511mFTH6tZL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41Y8MAW+mjL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51bAkqS-NOL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/51+ffurACJL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/518DouGSDkL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/511mFTH6tZL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41Y8MAW+mjL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51bAkqS-NOL._AC_SL1500_.jpg"
       ],
       "category": "Monitor",
       "brand": "LG"
@@ -379,11 +379,11 @@
       "price": 1199.99,
       "stock": 10,
       "images": [
-        "https://m.media-amazon.com/images/I/31XA04pbuQL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41dEJEqirmL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41B90T54c-L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41v69NkijNL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41XV5Q5FTeL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/31XA04pbuQL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41dEJEqirmL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41B90T54c-L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41v69NkijNL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41XV5Q5FTeL._AC_SL1500_.jpg"
       ],
       "category": "Laptop",
       "brand": "Acer"
@@ -394,11 +394,11 @@
       "price": 1799.99,
       "stock": 8,
       "images": [
-        "https://m.media-amazon.com/images/I/31snc6vcUTL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/31bIjUz2vXL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41BNn54XGSL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/31NeWyC1StL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/412wwQsY2YL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/31snc6vcUTL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/31bIjUz2vXL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41BNn54XGSL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/31NeWyC1StL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/412wwQsY2YL._AC_SL1500_.jpg"
       ],
       "category": "Laptop",
       "brand": "Razer"
@@ -409,11 +409,11 @@
       "price": 399.99,
       "stock": 8,
       "images": [
-        "https://m.media-amazon.com/images/I/41JHmyV44WL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/5190kS8jKhL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51pD+fny1wL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/511xNCKAkKL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51CzheupyUL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41JHmyV44WL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/5190kS8jKhL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51pD+fny1wL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/511xNCKAkKL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51CzheupyUL._AC_SL1500_.jpg"
       ],
       "category": "CPU",
       "brand": "AMD"
@@ -424,7 +424,7 @@
       "price": 349.99,
       "stock": 10,
       "images": [
-        "https://m.media-amazon.com/images/I/311X6YjuHwL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/311X6YjuHwL._AC_SL1500_.jpg",
         "https://m.media-amazon.com/images/I/61l7mgjEm0L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg"
       ],
       "category": "CPU",
@@ -436,11 +436,11 @@
       "price": 499.99,
       "stock": 6,
       "images": [
-        "https://m.media-amazon.com/images/I/41rMvuyUhKL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41mP5hWvSeL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41Y7IkIkejL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/411hoAIUJ0L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41bzODObEKL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41rMvuyUhKL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41mP5hWvSeL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41Y7IkIkejL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/411hoAIUJ0L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41bzODObEKL._AC_SL1500_.jpg"
       ],
       "category": "GPU",
       "brand": "NVIDIA"
@@ -451,11 +451,11 @@
       "price": 479.99,
       "stock": 7,
       "images": [
-        "https://m.media-amazon.com/images/I/41G0-twEyLL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51aihdcn3rL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41TpdnH9VsL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/418ytkKMKbL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/515RQwyWq6L._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41G0-twEyLL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51aihdcn3rL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41TpdnH9VsL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/418ytkKMKbL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/515RQwyWq6L._AC_SL1500_.jpg"
       ],
       "category": "GPU",
       "brand": "AMD"
@@ -466,10 +466,10 @@
       "price": 129.99,
       "stock": 20,
       "images": [
-        "https://m.media-amazon.com/images/I/41kZ5-9GbtL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/418GBTsG9HL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41JBKcvmOzL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41PbUcYTwzL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/41kZ5-9GbtL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/418GBTsG9HL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41JBKcvmOzL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41PbUcYTwzL._AC_SL1500_.jpg",
         "https://m.media-amazon.com/images/I/51gQBTMwbvL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg"
       ],
       "category": "Memory",
@@ -481,11 +481,11 @@
       "price": 149.99,
       "stock": 15,
       "images": [
-        "https://m.media-amazon.com/images/I/41t7yG7FPDL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51O0eOsYgBL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51-jxj65X7L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51ZegT+D1OL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51tgVfWmMmL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41t7yG7FPDL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51O0eOsYgBL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51-jxj65X7L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51ZegT+D1OL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51tgVfWmMmL._AC_SL1500_.jpg"
       ],
       "category": "Memory",
       "brand": "Kingston"
@@ -496,11 +496,11 @@
       "price": 89.99,
       "stock": 25,
       "images": [
-        "https://m.media-amazon.com/images/I/41tEWQ-6A1L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51W27fJMF1L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51B5YH56hGL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51Y-ZnamRrL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/31P7MkqUv6L._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41tEWQ-6A1L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51W27fJMF1L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51B5YH56hGL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51Y-ZnamRrL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/31P7MkqUv6L._AC_SL1500_.jpg"
       ],
       "category": "Storage",
       "brand": "Western Digital"
@@ -511,11 +511,11 @@
       "price": 109.99,
       "stock": 20,
       "images": [
-        "https://m.media-amazon.com/images/I/41AtswEQJkL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51jj8p37EBL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51Q57Yt4VmL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/61tu27yt74L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51sjTpvu6dL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41AtswEQJkL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51jj8p37EBL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51Q57Yt4VmL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61tu27yt74L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51sjTpvu6dL._AC_SL1500_.jpg"
       ],
       "category": "Storage",
       "brand": "Seagate"
@@ -526,11 +526,11 @@
       "price": 89.99,
       "stock": 10,
       "images": [
-        "https://m.media-amazon.com/images/I/419hCVITaxL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41ZSRmzX6SL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51efYIFyP0L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41rcmVDchsL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51JJ4eWPMcL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/419hCVITaxL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41ZSRmzX6SL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51efYIFyP0L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41rcmVDchsL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51JJ4eWPMcL._AC_SL1500_.jpg"
       ],
       "category": "Case",
       "brand": "Phanteks"
@@ -541,11 +541,11 @@
       "price": 129.99,
       "stock": 8,
       "images": [
-        "https://m.media-amazon.com/images/I/41pCP9zCauL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51Kgy+KbL0L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51M+IlAHo0L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41wuM17FVCL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51+G7KIyQ4L._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41pCP9zCauL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51Kgy+KbL0L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51M+IlAHo0L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41wuM17FVCL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51+G7KIyQ4L._AC_SL1500_.jpg"
       ],
       "category": "Power Supply",
       "brand": "EVGA"
@@ -556,11 +556,11 @@
       "price": 179.99,
       "stock": 15,
       "images": [
-        "https://m.media-amazon.com/images/I/51aIuzvzflL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/510ptWAE3ML._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51tZmXONXWL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51vgtm+0abL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51LtOvnpJJL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/51aIuzvzflL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/510ptWAE3ML._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51tZmXONXWL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51vgtm+0abL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51LtOvnpJJL._AC_SL1500_.jpg"
       ],
       "category": "Monitor",
       "brand": "AOC"
@@ -571,11 +571,11 @@
       "price": 219.99,
       "stock": 12,
       "images": [
-        "https://m.media-amazon.com/images/I/41rLTbzOeAL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51dWt+NjreL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51Srm6eyikL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/418bpHSHAjL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41+ffZ-cYML._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41rLTbzOeAL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51dWt+NjreL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51Srm6eyikL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/418bpHSHAjL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41+ffZ-cYML._AC_SL1500_.jpg"
       ],
       "category": "Monitor",
       "brand": "BenQ"
@@ -601,11 +601,11 @@
       "price": 59.99,
       "stock": 35,
       "images": [
-        "https://m.media-amazon.com/images/I/41GIgtvlDCL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/31Elsz+ukxL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/31C5gYL-0iL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/21rUp+3uMLL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/21cszVdXr9L._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41GIgtvlDCL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/31Elsz+ukxL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/31C5gYL-0iL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/21rUp+3uMLL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/21cszVdXr9L._AC_SL1500_.jpg"
       ],
       "category": "Mouse",
       "brand": "SteelSeries"
@@ -616,11 +616,11 @@
       "price": 249.99,
       "stock": 10,
       "images": [
-        "https://m.media-amazon.com/images/I/41vu5yPY0tL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41Z9UziNqLL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41BTi9cHeQL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51Aqk524azL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41jfPbWUhKL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41vu5yPY0tL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41Z9UziNqLL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41BTi9cHeQL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51Aqk524azL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41jfPbWUhKL._AC_SL1500_.jpg"
       ],
       "category": "Keyboard",
       "brand": "Logitech"
@@ -631,11 +631,11 @@
       "price": 159.99,
       "stock": 12,
       "images": [
-        "https://m.media-amazon.com/images/I/41vu5yPY0tL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41Z9UziNqLL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41BTi9cHeQL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51Aqk524azL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41jfPbWUhKL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41vu5yPY0tL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41Z9UziNqLL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41BTi9cHeQL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51Aqk524azL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41jfPbWUhKL._AC_SL1500_.jpg"
       ],
       "category": "Keyboard",
       "brand": "HyperX"
@@ -646,11 +646,11 @@
       "price": 199.99,
       "stock": 7,
       "images": [
-        "https://m.media-amazon.com/images/I/41Y-4PruWZL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41OiZvGknjL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51o3W785XbL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/419FiHhSYnL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41RApQ5OZlL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41Y-4PruWZL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41OiZvGknjL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51o3W785XbL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/419FiHhSYnL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41RApQ5OZlL._AC_SL1500_.jpg"
       ],
       "category": "Headset",
       "brand": "Beyerdynamic"
@@ -661,11 +661,11 @@
       "price": 299.99,
       "stock": 5,
       "images": [
-        "https://m.media-amazon.com/images/I/41Rb3L9G-WL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41EVcGMgBEL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41ILbAWc-kL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41AwnsfHpZL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41w1ImfZlTL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41Rb3L9G-WL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41EVcGMgBEL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41ILbAWc-kL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41AwnsfHpZL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41w1ImfZlTL._AC_SL1500_.jpg"
       ],
       "category": "Headset",
       "brand": "Sennheiser"
@@ -676,11 +676,11 @@
       "price": 249.99,
       "stock": 4,
       "images": [
-        "https://m.media-amazon.com/images/I/415m9-P9lmL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51abwfnIMlL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41sS9SC00fL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51TvUfZxSHL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/5105LpkEY3L._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/415m9-P9lmL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51abwfnIMlL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41sS9SC00fL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51TvUfZxSHL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/5105LpkEY3L._AC_SL1500_.jpg"
       ],
       "category": "Streaming",
       "brand": "Elgato"
@@ -691,11 +691,11 @@
       "price": 249.99,
       "stock": 10,
       "images": [
-        "https://m.media-amazon.com/images/I/410XD52av1L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51wRligj32L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41R+2AKXfqL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/411lBuw4j1L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41n0i+-MRML._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/410XD52av1L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51wRligj32L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41R+2AKXfqL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/411lBuw4j1L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41n0i+-MRML._AC_SL1500_.jpg"
       ],
       "category": "Microphone",
       "brand": "Shure"
@@ -706,11 +706,11 @@
       "price": 449.99,
       "stock": 8,
       "images": [
-        "https://m.media-amazon.com/images/I/51rG-HrzrcL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51OAovHKCFS._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41u6U5oeSrL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51BdFCA-igL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/518nmCb9mbS._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/51rG-HrzrcL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51OAovHKCFS._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41u6U5oeSrL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51BdFCA-igL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/518nmCb9mbS._AC_SL1500_.jpg"
       ],
       "category": "Camera",
       "brand": "Canon"
@@ -736,11 +736,11 @@
       "price": 1199.99,
       "stock": 8,
       "images": [
-        "https://m.media-amazon.com/images/I/51xF3qHY4sL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41J-1zhI1BL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51kvOviINTL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41PoqWBSk9L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41+ZurAQFjL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/51xF3qHY4sL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41J-1zhI1BL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51kvOviINTL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41PoqWBSk9L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41+ZurAQFjL._AC_SL1500_.jpg"
       ],
       "category": "Smartphone",
       "brand": "Samsung"
@@ -751,11 +751,11 @@
       "price": 1599.99,
       "stock": 6,
       "images": [
-        "https://m.media-amazon.com/images/I/410T+cPoKtL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51ZULVII1AL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51SKXpue--L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/412IZApKdfL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41HyDmm+T1L._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/410T+cPoKtL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51ZULVII1AL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51SKXpue--L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/412IZApKdfL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41HyDmm+T1L._AC_SL1500_.jpg"
       ],
       "category": "Laptop",
       "brand": "MSI"
@@ -766,11 +766,11 @@
       "price": 1799.99,
       "stock": 5,
       "images": [
-        "https://m.media-amazon.com/images/I/41RiAOeqEkL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51BOegTIvOL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51G0mcg6VUL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51Tt17mYY+L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41GDI2uR0pL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41RiAOeqEkL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51BOegTIvOL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51G0mcg6VUL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51Tt17mYY+L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41GDI2uR0pL._AC_SL1500_.jpg"
       ],
       "category": "Laptop",
       "brand": "Gigabyte"
@@ -781,11 +781,11 @@
       "price": 159.99,
       "stock": 12,
       "images": [
-        "https://m.media-amazon.com/images/I/41vu5yPY0tL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41Z9UziNqLL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41BTi9cHeQL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51Aqk524azL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41jfPbWUhKL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41vu5yPY0tL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41Z9UziNqLL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41BTi9cHeQL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51Aqk524azL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41jfPbWUhKL._AC_SL1500_.jpg"
       ],
       "category": "Keyboard",
       "brand": "Corsair"
@@ -796,11 +796,11 @@
       "price": 129.99,
       "stock": 10,
       "images": [
-        "https://m.media-amazon.com/images/I/41vu5yPY0tL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41Z9UziNqLL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41BTi9cHeQL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51Aqk524azL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41jfPbWUhKL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41vu5yPY0tL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41Z9UziNqLL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41BTi9cHeQL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51Aqk524azL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41jfPbWUhKL._AC_SL1500_.jpg"
       ],
       "category": "Keyboard",
       "brand": "Razer"
@@ -811,11 +811,11 @@
       "price": 199.99,
       "stock": 8,
       "images": [
-        "https://m.media-amazon.com/images/I/41vu5yPY0tL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41Z9UziNqLL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41BTi9cHeQL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51Aqk524azL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41jfPbWUhKL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41vu5yPY0tL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41Z9UziNqLL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41BTi9cHeQL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51Aqk524azL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41jfPbWUhKL._AC_SL1500_.jpg"
       ],
       "category": "Keyboard",
       "brand": "SteelSeries"
@@ -826,11 +826,11 @@
       "price": 229.99,
       "stock": 15,
       "images": [
-        "https://m.media-amazon.com/images/I/41vu5yPY0tL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41Z9UziNqLL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41BTi9cHeQL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51Aqk524azL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41jfPbWUhKL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41vu5yPY0tL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41Z9UziNqLL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41BTi9cHeQL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51Aqk524azL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41jfPbWUhKL._AC_SL1500_.jpg"
       ],
       "category": "Keyboard",
       "brand": "Logitech"
@@ -841,11 +841,11 @@
       "price": 139.99,
       "stock": 20,
       "images": [
-        "https://m.media-amazon.com/images/I/41vu5yPY0tL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41Z9UziNqLL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41BTi9cHeQL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51Aqk524azL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41jfPbWUhKL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41vu5yPY0tL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41Z9UziNqLL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41BTi9cHeQL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51Aqk524azL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41jfPbWUhKL._AC_SL1500_.jpg"
       ],
       "category": "Keyboard",
       "brand": "HyperX"
@@ -856,11 +856,11 @@
       "price": 159.99,
       "stock": 10,
       "images": [
-        "https://m.media-amazon.com/images/I/41mbwUPsPDL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51YDy-T4AjL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51cHbpZRooL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/516nGOEbUrL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51+bqTKNhqL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41mbwUPsPDL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51YDy-T4AjL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51cHbpZRooL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/516nGOEbUrL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51+bqTKNhqL._AC_SL1500_.jpg"
       ],
       "category": "Keyboard",
       "brand": "Asus"
@@ -886,11 +886,11 @@
       "price": 109.99,
       "stock": 18,
       "images": [
-        "https://m.media-amazon.com/images/I/41vu5yPY0tL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41Z9UziNqLL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41BTi9cHeQL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51Aqk524azL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41jfPbWUhKL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41vu5yPY0tL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41Z9UziNqLL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41BTi9cHeQL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51Aqk524azL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41jfPbWUhKL._AC_SL1500_.jpg"
       ],
       "category": "Keyboard",
       "brand": "Ducky"
@@ -901,11 +901,11 @@
       "price": 49.99,
       "stock": 30,
       "images": [
-        "https://m.media-amazon.com/images/I/414QOyJ9y5L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51zqjclOB7L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51bmsrCMLUL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41Jmddwy6VL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51p+2exiqoL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/414QOyJ9y5L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51zqjclOB7L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51bmsrCMLUL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41Jmddwy6VL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51p+2exiqoL._AC_SL1500_.jpg"
       ],
       "category": "Mouse",
       "brand": "Logitech"
@@ -916,11 +916,11 @@
       "price": 69.99,
       "stock": 35,
       "images": [
-        "https://m.media-amazon.com/images/I/414QOyJ9y5L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51zqjclOB7L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51bmsrCMLUL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41Jmddwy6VL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51p+2exiqoL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/414QOyJ9y5L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51zqjclOB7L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51bmsrCMLUL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41Jmddwy6VL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51p+2exiqoL._AC_SL1500_.jpg"
       ],
       "category": "Mouse",
       "brand": "Razer"
@@ -931,11 +931,11 @@
       "price": 79.99,
       "stock": 20,
       "images": [
-        "https://m.media-amazon.com/images/I/41wcszXI1HL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/514jYDDOQOL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41CTVePmSoL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/419ZGohMK8L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/413iVTVNLIL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41wcszXI1HL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/514jYDDOQOL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41CTVePmSoL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/419ZGohMK8L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/413iVTVNLIL._AC_SL1500_.jpg"
       ],
       "category": "Mouse",
       "brand": "SteelSeries"
@@ -946,11 +946,11 @@
       "price": 59.99,
       "stock": 28,
       "images": [
-        "https://m.media-amazon.com/images/I/41+hlaqj5qL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41SAzRpljbL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51ul2nVYwtL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41U21WJNxOL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41Z4s4sVfXL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41+hlaqj5qL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41SAzRpljbL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51ul2nVYwtL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41U21WJNxOL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41Z4s4sVfXL._AC_SL1500_.jpg"
       ],
       "category": "Mouse",
       "brand": "Corsair"
@@ -961,11 +961,11 @@
       "price": 49.99,
       "stock": 40,
       "images": [
-        "https://m.media-amazon.com/images/I/41XEF1Bia9L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/31pP35pEKeL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/31AFprRnpVL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/31JcMLUOS9L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/21BZCg1qlYL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41XEF1Bia9L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/31pP35pEKeL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/31AFprRnpVL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/31JcMLUOS9L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/21BZCg1qlYL._AC_SL1500_.jpg"
       ],
       "category": "Mouse",
       "brand": "Glorious"
@@ -976,11 +976,11 @@
       "price": 99.99,
       "stock": 15,
       "images": [
-        "https://m.media-amazon.com/images/I/314IgZWGXyL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41bLRXojFmL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/21xaWdtPqmL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/414r5pioETL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41SC2GGm6EL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/314IgZWGXyL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41bLRXojFmL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/21xaWdtPqmL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/414r5pioETL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41SC2GGm6EL._AC_SL1500_.jpg"
       ],
       "category": "Mouse",
       "brand": "FinalMouse"
@@ -991,11 +991,11 @@
       "price": 39.99,
       "stock": 50,
       "images": [
-        "https://m.media-amazon.com/images/I/31R6YFGVcUL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/31h8zE7hEOL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/319v6mCjjVL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/31AGxAjKHvL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/31rosaltV-L._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/31R6YFGVcUL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/31h8zE7hEOL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/319v6mCjjVL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/31AGxAjKHvL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/31rosaltV-L._AC_SL1500_.jpg"
       ],
       "category": "Mouse",
       "brand": "BenQ"
@@ -1006,11 +1006,11 @@
       "price": 79.99,
       "stock": 22,
       "images": [
-        "https://m.media-amazon.com/images/I/414QOyJ9y5L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51zqjclOB7L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51bmsrCMLUL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41Jmddwy6VL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51p+2exiqoL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/414QOyJ9y5L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51zqjclOB7L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51bmsrCMLUL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41Jmddwy6VL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51p+2exiqoL._AC_SL1500_.jpg"
       ],
       "category": "Mouse",
       "brand": "HyperX"
@@ -1021,11 +1021,11 @@
       "price": 129.99,
       "stock": 16,
       "images": [
-        "https://m.media-amazon.com/images/I/415pR5cp16L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51MNOMIy0lL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41vNpbbL-fL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/417BV4oQBvL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51lF0DRv2TL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/415pR5cp16L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51MNOMIy0lL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41vNpbbL-fL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/417BV4oQBvL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51lF0DRv2TL._AC_SL1500_.jpg"
       ],
       "category": "headest",
       "brand": "HyperX"
@@ -1036,11 +1036,11 @@
       "price": 179.99,
       "stock": 10,
       "images": [
-        "https://m.media-amazon.com/images/I/419PSmh-1yL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/414Iq3ofc8L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41FHKk0tl2L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41falB1+MKL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51p4ILv9DTL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/419PSmh-1yL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/414Iq3ofc8L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41FHKk0tl2L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41falB1+MKL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51p4ILv9DTL._AC_SL1500_.jpg"
       ],
       "category": "headest",
       "brand": "Razer"
@@ -1051,11 +1051,11 @@
       "price": 249.99,
       "stock": 8,
       "images": [
-        "https://m.media-amazon.com/images/I/31EN5drQ57L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41Hp7SLdwbL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41kOY1xmJpL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/4186usQAnrL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41Anzu4kNZL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/31EN5drQ57L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41Hp7SLdwbL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41kOY1xmJpL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/4186usQAnrL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41Anzu4kNZL._AC_SL1500_.jpg"
       ],
       "category": "headest",
       "brand": "SteelSeries"
@@ -1066,11 +1066,11 @@
       "price": 199.99,
       "stock": 12,
       "images": [
-        "https://m.media-amazon.com/images/I/415pR5cp16L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51MNOMIy0lL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41vNpbbL-fL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/417BV4oQBvL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51lF0DRv2TL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/415pR5cp16L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51MNOMIy0lL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41vNpbbL-fL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/417BV4oQBvL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51lF0DRv2TL._AC_SL1500_.jpg"
       ],
       "category": "headest",
       "brand": "Logitech"
@@ -1081,11 +1081,11 @@
       "price": 89.99,
       "stock": 25,
       "images": [
-        "https://m.media-amazon.com/images/I/415pR5cp16L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51MNOMIy0lL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41vNpbbL-fL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/417BV4oQBvL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51lF0DRv2TL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/415pR5cp16L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51MNOMIy0lL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41vNpbbL-fL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/417BV4oQBvL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51lF0DRv2TL._AC_SL1500_.jpg"
       ],
       "category": "headest",
       "brand": "Corsair"
@@ -1096,11 +1096,11 @@
       "price": 199.99,
       "stock": 10,
       "images": [
-        "https://m.media-amazon.com/images/I/31v1y7qj8QL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51DbpofQIzL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51ekpmGyUHL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41gaCIAv-2L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51EfeQUwABL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/31v1y7qj8QL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51DbpofQIzL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51ekpmGyUHL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41gaCIAv-2L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51EfeQUwABL._AC_SL1500_.jpg"
       ],
       "category": "Webcam",
       "brand": "Logitech"
@@ -1111,11 +1111,11 @@
       "price": 169.99,
       "stock": 15,
       "images": [
-        "https://m.media-amazon.com/images/I/31v1y7qj8QL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51DbpofQIzL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51ekpmGyUHL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41gaCIAv-2L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51EfeQUwABL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/31v1y7qj8QL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51DbpofQIzL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51ekpmGyUHL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41gaCIAv-2L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51EfeQUwABL._AC_SL1500_.jpg"
       ],
       "category": "Webcam",
       "brand": "Razer"
@@ -1126,11 +1126,11 @@
       "price": 39.99,
       "stock": 30,
       "images": [
-        "https://m.media-amazon.com/images/I/41tYb74YvaL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51W4NTkEEiL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41AIWW4v0+L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/510jffsTaJL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51T3pCCqWhL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41tYb74YvaL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51W4NTkEEiL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41AIWW4v0+L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/510jffsTaJL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51T3pCCqWhL._AC_SL1500_.jpg"
       ],
       "category": "Webcam",
       "brand": "Microsoft"
@@ -1141,11 +1141,11 @@
       "price": 59.99,
       "stock": 20,
       "images": [
-        "https://m.media-amazon.com/images/I/41tYb74YvaL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51W4NTkEEiL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41AIWW4v0+L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/510jffsTaJL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51T3pCCqWhL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41tYb74YvaL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51W4NTkEEiL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41AIWW4v0+L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/510jffsTaJL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51T3pCCqWhL._AC_SL1500_.jpg"
       ],
       "category": "Webcam",
       "brand": "Aukey"
@@ -1171,11 +1171,11 @@
       "price": 99.99,
       "stock": 30,
       "images": [
-        "https://m.media-amazon.com/images/I/41ipI4VuE0L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41lJd8PJv5L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41IheLw-MfL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41fBtiAUyIL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41-jSLT8K8L._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41ipI4VuE0L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41lJd8PJv5L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41IheLw-MfL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41fBtiAUyIL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41-jSLT8K8L._AC_SL1500_.jpg"
       ],
       "category": "CPU Cooling",
       "brand": "Noctua"
@@ -1201,11 +1201,11 @@
       "price": 129.99,
       "stock": 20,
       "images": [
-        "https://m.media-amazon.com/images/I/41qKo1OaozL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51kGtNI+KSL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41v8YSpUNhL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51CtW6H1CyL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51D7kysqlPL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41qKo1OaozL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51kGtNI+KSL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41v8YSpUNhL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51CtW6H1CyL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51D7kysqlPL._AC_SL1500_.jpg"
       ],
       "category": "CPU Cooling",
       "brand": "Corsair"
@@ -1216,11 +1216,11 @@
       "price": 149.99,
       "stock": 15,
       "images": [
-        "https://m.media-amazon.com/images/I/414DEMQQLcL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41ENkjPKdVL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/31vRDzBn+RL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/31BHt7vQdcL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41EBaUJkrFL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/414DEMQQLcL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41ENkjPKdVL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/31vRDzBn+RL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/31BHt7vQdcL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41EBaUJkrFL._AC_SL1500_.jpg"
       ],
       "category": "CPU Cooling",
       "brand": "NZXT"
@@ -1377,11 +1377,11 @@
       "price": 209.99,
       "stock": 10,
       "images": [
-        "https://m.media-amazon.com/images/I/41fQtUbuNnL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41H22-n6RqL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/412dGiWepDL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/31cZLkgV9FL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/31WgmV1WphL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41fQtUbuNnL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41H22-n6RqL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/412dGiWepDL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/31cZLkgV9FL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/31WgmV1WphL._AC_SL1500_.jpg"
       ],
       "category": "CPU Cooling",
       "brand": "NZXT"
@@ -1521,11 +1521,11 @@
       "price": 39.99,
       "stock": 40,
       "images": [
-        "https://m.media-amazon.com/images/I/416I+vKlpxL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51Q6cGO9urL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41q6uFihyjL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51tfg5CAfwL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/416I+vKlpxL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51Q6cGO9urL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41q6uFihyjL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51tfg5CAfwL._AC_SL1500_.jpg"
       ],
       "category": "Case Fan",
       "brand": "Corsair"
@@ -1536,11 +1536,11 @@
       "price": 29.99,
       "stock": 50,
       "images": [
-        "https://m.media-amazon.com/images/I/416I+vKlpxL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51Q6cGO9urL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41q6uFihyjL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51tfg5CAfwL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/416I+vKlpxL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51Q6cGO9urL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41q6uFihyjL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51tfg5CAfwL._AC_SL1500_.jpg"
       ],
       "category": "Case Fan",
       "brand": "NZXT"
@@ -1551,11 +1551,11 @@
       "price": 49.99,
       "stock": 35,
       "images": [
-        "https://m.media-amazon.com/images/I/41IKpR4Q2KL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/510JsSQW0fL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41-8NDYG7dL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41ShJ8S1v9L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41datIlV8IL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41IKpR4Q2KL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/510JsSQW0fL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41-8NDYG7dL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41ShJ8S1v9L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41datIlV8IL._AC_SL1500_.jpg"
       ],
       "category": "Case Fan",
       "brand": "Noctua"
@@ -1566,11 +1566,11 @@
       "price": 34.99,
       "stock": 45,
       "images": [
-        "https://m.media-amazon.com/images/I/416I+vKlpxL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51Q6cGO9urL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41q6uFihyjL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51tfg5CAfwL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/416I+vKlpxL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51Q6cGO9urL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41q6uFihyjL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51tfg5CAfwL._AC_SL1500_.jpg"
       ],
       "category": "Case Fan",
       "brand": "Cooler Master"
@@ -1581,11 +1581,11 @@
       "price": 24.99,
       "stock": 60,
       "images": [
-        "https://m.media-amazon.com/images/I/31MaqbismsL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/418UkrpbEnL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41IBTrflw-L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41x+os5W8JL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/31MaqbismsL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/418UkrpbEnL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41IBTrflw-L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41x+os5W8JL._AC_SL1500_.jpg"
       ],
       "category": "Case Fan",
       "brand": "Thermaltake"
@@ -1611,11 +1611,11 @@
       "price": 19.99,
       "stock": 70,
       "images": [
-        "https://m.media-amazon.com/images/I/416I+vKlpxL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51Q6cGO9urL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41q6uFihyjL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51tfg5CAfwL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/416I+vKlpxL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51Q6cGO9urL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41q6uFihyjL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51tfg5CAfwL._AC_SL1500_.jpg"
       ],
       "category": "Case Fan",
       "brand": "Arctic"
@@ -1686,11 +1686,11 @@
       "price": 44.99,
       "stock": 35,
       "images": [
-        "https://m.media-amazon.com/images/I/416I+vKlpxL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51Q6cGO9urL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41q6uFihyjL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51tfg5CAfwL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/416I+vKlpxL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51Q6cGO9urL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41q6uFihyjL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51tfg5CAfwL._AC_SL1500_.jpg"
       ],
       "category": "Case Fan",
       "brand": "Corsair"
@@ -1701,11 +1701,11 @@
       "price": 24.99,
       "stock": 45,
       "images": [
-        "https://m.media-amazon.com/images/I/416I+vKlpxL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51Q6cGO9urL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41q6uFihyjL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51tfg5CAfwL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/416I+vKlpxL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51Q6cGO9urL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41q6uFihyjL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51tfg5CAfwL._AC_SL1500_.jpg"
       ],
       "category": "Case Fan",
       "brand": "Noctua"
@@ -1716,11 +1716,11 @@
       "price": 19.99,
       "stock": 55,
       "images": [
-        "https://m.media-amazon.com/images/I/31MaqbismsL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/418UkrpbEnL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41IBTrflw-L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41x+os5W8JL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/31MaqbismsL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/418UkrpbEnL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41IBTrflw-L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41x+os5W8JL._AC_SL1500_.jpg"
       ],
       "category": "Case Fan",
       "brand": "Thermaltake"
@@ -1746,11 +1746,11 @@
       "price": 19.99,
       "stock": 65,
       "images": [
-        "https://m.media-amazon.com/images/I/416I+vKlpxL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51Q6cGO9urL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41q6uFihyjL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51tfg5CAfwL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/416I+vKlpxL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51Q6cGO9urL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41q6uFihyjL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51tfg5CAfwL._AC_SL1500_.jpg"
       ],
       "category": "Case Fan",
       "brand": "Arctic"
@@ -1791,11 +1791,11 @@
       "price": 29.99,
       "stock": 50,
       "images": [
-        "https://m.media-amazon.com/images/I/41EHDORtaCL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51vKUsIaBDL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51q32Im48fL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51G8U1wFGaL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41rwjrczToL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41EHDORtaCL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51vKUsIaBDL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51q32Im48fL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51G8U1wFGaL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41rwjrczToL._AC_SL1500_.jpg"
       ],
       "category": "Case Fan",
       "brand": "SilverStone"
@@ -1806,11 +1806,11 @@
       "price": 39.99,
       "stock": 45,
       "images": [
-        "https://m.media-amazon.com/images/I/41kivB9l6WL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51UUQxrIimL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41q6uFihyjL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51yc8CkhmrL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41kivB9l6WL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51UUQxrIimL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41q6uFihyjL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51yc8CkhmrL._AC_SL1500_.jpg"
       ],
       "category": "Case Fan",
       "brand": "Cooler Master"
@@ -1821,11 +1821,11 @@
       "price": 29.99,
       "stock": 40,
       "images": [
-        "https://m.media-amazon.com/images/I/416I+vKlpxL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51Q6cGO9urL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41q6uFihyjL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51tfg5CAfwL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/416I+vKlpxL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51Q6cGO9urL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41q6uFihyjL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51tfg5CAfwL._AC_SL1500_.jpg"
       ],
       "category": "Case Fan",
       "brand": "Corsair"
@@ -1836,11 +1836,11 @@
       "price": 39.99,
       "stock": 35,
       "images": [
-        "https://m.media-amazon.com/images/I/416I+vKlpxL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51Q6cGO9urL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41q6uFihyjL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51tfg5CAfwL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/416I+vKlpxL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51Q6cGO9urL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41q6uFihyjL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51tfg5CAfwL._AC_SL1500_.jpg"
       ],
       "category": "Case Fan",
       "brand": "Noctua"
@@ -1851,11 +1851,11 @@
       "price": 34.99,
       "stock": 30,
       "images": [
-        "https://m.media-amazon.com/images/I/31MaqbismsL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/418UkrpbEnL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41IBTrflw-L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41x+os5W8JL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/31MaqbismsL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/418UkrpbEnL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41IBTrflw-L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41x+os5W8JL._AC_SL1500_.jpg"
       ],
       "category": "Case Fan",
       "brand": "Thermaltake"
@@ -1896,11 +1896,11 @@
       "price": 119.99,
       "stock": 20,
       "images": [
-        "https://m.media-amazon.com/images/I/41ZqPIhHd6L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/413LxJy3noL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51VuyF6CEyL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51L7ZOAOicL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41ZqPIhHd6L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/413LxJy3noL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51VuyF6CEyL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51L7ZOAOicL._AC_SL1500_.jpg"
       ],
       "category": "Power Supply",
       "brand": "Corsair"
@@ -1911,11 +1911,11 @@
       "price": 109.99,
       "stock": 18,
       "images": [
-        "https://m.media-amazon.com/images/I/41ZqPIhHd6L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/413LxJy3noL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51VuyF6CEyL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51L7ZOAOicL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41ZqPIhHd6L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/413LxJy3noL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51VuyF6CEyL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51L7ZOAOicL._AC_SL1500_.jpg"
       ],
       "category": "Power Supply",
       "brand": "EVGA"
@@ -1926,11 +1926,11 @@
       "price": 129.99,
       "stock": 15,
       "images": [
-        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_SL1500_.jpg"
       ],
       "category": "Power Supply",
       "brand": "Seasonic"
@@ -1941,11 +1941,11 @@
       "price": 139.99,
       "stock": 12,
       "images": [
-        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_SL1500_.jpg"
       ],
       "category": "Power Supply",
       "brand": "Thermaltake"
@@ -1956,11 +1956,11 @@
       "price": 89.99,
       "stock": 25,
       "images": [
-        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_SL1500_.jpg"
       ],
       "category": "Power Supply",
       "brand": "Cooler Master"
@@ -1971,11 +1971,11 @@
       "price": 129.99,
       "stock": 10,
       "images": [
-        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_SL1500_.jpg"
       ],
       "category": "Power Supply",
       "brand": "be quiet!"
@@ -1986,11 +1986,11 @@
       "price": 149.99,
       "stock": 8,
       "images": [
-        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_SL1500_.jpg"
       ],
       "category": "Power Supply",
       "brand": "FSP"
@@ -2001,11 +2001,11 @@
       "price": 99.99,
       "stock": 20,
       "images": [
-        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_SL1500_.jpg"
       ],
       "category": "Power Supply",
       "brand": "Antec"
@@ -2016,11 +2016,11 @@
       "price": 69.99,
       "stock": 30,
       "images": [
-        "https://m.media-amazon.com/images/I/41ZqPIhHd6L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/413LxJy3noL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51VuyF6CEyL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51L7ZOAOicL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41ZqPIhHd6L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/413LxJy3noL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51ZRs5vUZ2L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51VuyF6CEyL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51L7ZOAOicL._AC_SL1500_.jpg"
       ],
       "category": "Power Supply",
       "brand": "Corsair"
@@ -2031,11 +2031,11 @@
       "price": 49.99,
       "stock": 35,
       "images": [
-        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_SL1500_.jpg"
       ],
       "category": "Power Supply",
       "brand": "EVGA"
@@ -2046,11 +2046,11 @@
       "price": 54.99,
       "stock": 40,
       "images": [
-        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_SL1500_.jpg"
       ],
       "category": "Power Supply",
       "brand": "Seasonic"
@@ -2061,11 +2061,11 @@
       "price": 59.99,
       "stock": 30,
       "images": [
-        "https://m.media-amazon.com/images/I/41NA+qRaoXL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/410DPUqFFJL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/318e8WqrTcL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41E7rGiMwnL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41qE5TZcfIL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41NA+qRaoXL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/410DPUqFFJL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/318e8WqrTcL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41E7rGiMwnL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41qE5TZcfIL._AC_SL1500_.jpg"
       ],
       "category": "Power Supply",
       "brand": "Thermaltake"
@@ -2076,11 +2076,11 @@
       "price": 49.99,
       "stock": 50,
       "images": [
-        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_SL1500_.jpg"
       ],
       "category": "Power Supply",
       "brand": "Cooler Master"
@@ -2091,11 +2091,11 @@
       "price": 79.99,
       "stock": 28,
       "images": [
-        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_SL1500_.jpg"
       ],
       "category": "Power Supply",
       "brand": "be quiet!"
@@ -2106,11 +2106,11 @@
       "price": 109.99,
       "stock": 15,
       "images": [
-        "https://m.media-amazon.com/images/I/41NA+qRaoXL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/410DPUqFFJL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/318e8WqrTcL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41E7rGiMwnL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41qE5TZcfIL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41NA+qRaoXL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/410DPUqFFJL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/318e8WqrTcL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41E7rGiMwnL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41qE5TZcfIL._AC_SL1500_.jpg"
       ],
       "category": "Power Supply",
       "brand": "FSP"
@@ -2121,11 +2121,11 @@
       "price": 119.99,
       "stock": 12,
       "images": [
-        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_SL1500_.jpg"
       ],
       "category": "Power Supply",
       "brand": "Antec"
@@ -2136,11 +2136,11 @@
       "price": 179.99,
       "stock": 10,
       "images": [
-        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_SL1500_.jpg"
       ],
       "category": "Power Supply",
       "brand": "Corsair"
@@ -2151,11 +2151,11 @@
       "price": 219.99,
       "stock": 8,
       "images": [
-        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_SL1500_.jpg"
       ],
       "category": "Power Supply",
       "brand": "EVGA"
@@ -2166,11 +2166,11 @@
       "price": 269.99,
       "stock": 6,
       "images": [
-        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_SL1500_.jpg"
       ],
       "category": "Power Supply",
       "brand": "Seasonic"
@@ -2181,11 +2181,11 @@
       "price": 159.99,
       "stock": 9,
       "images": [
-        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_SL1500_.jpg"
       ],
       "category": "Power Supply",
       "brand": "Thermaltake"
@@ -2196,11 +2196,11 @@
       "price": 139.99,
       "stock": 10,
       "images": [
-        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_SL1500_.jpg"
       ],
       "category": "Power Supply",
       "brand": "Cooler Master"
@@ -2211,11 +2211,11 @@
       "price": 299.99,
       "stock": 5,
       "images": [
-        "https://m.media-amazon.com/images/I/51bGTav5QvL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51WpfRLIjzL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51bl1aSWcUL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51VSxrR4LbL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41+81jkxckL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/51bGTav5QvL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51WpfRLIjzL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51bl1aSWcUL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51VSxrR4LbL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41+81jkxckL._AC_SL1500_.jpg"
       ],
       "category": "Power Supply",
       "brand": "be quiet!"
@@ -2226,11 +2226,11 @@
       "price": 129.99,
       "stock": 14,
       "images": [
-        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_SL1500_.jpg"
       ],
       "category": "Power Supply",
       "brand": "FSP"
@@ -2241,11 +2241,11 @@
       "price": 149.99,
       "stock": 10,
       "images": [
-        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_SL1500_.jpg"
       ],
       "category": "Power Supply",
       "brand": "Antec"
@@ -2256,11 +2256,11 @@
       "price": 499.99,
       "stock": 3,
       "images": [
-        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41zUmjekFTL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51ne6lCT+tL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51U6Th0EmPL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51rU6+WK-oL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41jvnoV550L._AC_SL1500_.jpg"
       ],
       "category": "Power Supply",
       "brand": "Corsair"
@@ -2271,11 +2271,11 @@
       "price": 299.99,
       "stock": 12,
       "images": [
-        "https://m.media-amazon.com/images/I/41sPRYUb+wL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/414hfCS3maL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41doNqAKxJL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/415GXFF4uyL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41D7QhDlxaL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41sPRYUb+wL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/414hfCS3maL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41doNqAKxJL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/415GXFF4uyL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41D7QhDlxaL._AC_SL1500_.jpg"
       ],
       "category": "Motherboard",
       "brand": "ASUS"
@@ -2286,11 +2286,11 @@
       "price": 189.99,
       "stock": 15,
       "images": [
-        "https://m.media-amazon.com/images/I/516Z3oof0TL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51Dy6z5dJiL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51ONbU5YL5L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51qLcM0ZN0L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51VJV8a0V-L._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/516Z3oof0TL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51Dy6z5dJiL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51ONbU5YL5L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51qLcM0ZN0L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51VJV8a0V-L._AC_SL1500_.jpg"
       ],
       "category": "Motherboard",
       "brand": "MSI"
@@ -2301,11 +2301,11 @@
       "price": 329.99,
       "stock": 10,
       "images": [
-        "https://m.media-amazon.com/images/I/41KKG6GKlrL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41-Hi1rq-pL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41y+Zg33IVL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/31yw0-Z20sL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/415im2uMgyL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41KKG6GKlrL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41-Hi1rq-pL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41y+Zg33IVL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/31yw0-Z20sL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/415im2uMgyL._AC_SL1500_.jpg"
       ],
       "category": "Motherboard",
       "brand": "Gigabyte"
@@ -2316,11 +2316,11 @@
       "price": 129.99,
       "stock": 20,
       "images": [
-        "https://m.media-amazon.com/images/I/516x0fxZtSL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51b1-KtCAWL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41eaavh36iL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41RivsheuoL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/510TUQgHKSL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/516x0fxZtSL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51b1-KtCAWL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41eaavh36iL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41RivsheuoL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/510TUQgHKSL._AC_SL1500_.jpg"
       ],
       "category": "Motherboard",
       "brand": "ASRock"
@@ -2331,11 +2331,11 @@
       "price": 249.99,
       "stock": 8,
       "images": [
-        "https://m.media-amazon.com/images/I/314qtgeYpmL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41-LysfVE1L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41mAGqTbLBL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/31Y2sslEPML._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/31D+fNa+XaL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/314qtgeYpmL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41-LysfVE1L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41mAGqTbLBL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/31Y2sslEPML._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/31D+fNa+XaL._AC_SL1500_.jpg"
       ],
       "category": "Motherboard",
       "brand": "EVGA"
@@ -2346,11 +2346,11 @@
       "price": 279.99,
       "stock": 10,
       "images": [
-        "https://m.media-amazon.com/images/I/41scqVucSuL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41KVopRxkEL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41ngyKWLHhL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41uvRGSMvpL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41fZMDzBRTL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41scqVucSuL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41KVopRxkEL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41ngyKWLHhL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41uvRGSMvpL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41fZMDzBRTL._AC_SL1500_.jpg"
       ],
       "category": "Motherboard",
       "brand": "ASUS"
@@ -2361,11 +2361,11 @@
       "price": 349.99,
       "stock": 6,
       "images": [
-        "https://m.media-amazon.com/images/I/51EaUk8kKBL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51AEYafTsQL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51nmCHsDjpL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51cZlvha5dL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41UeKNduQ9L._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/51EaUk8kKBL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51AEYafTsQL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51nmCHsDjpL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51cZlvha5dL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41UeKNduQ9L._AC_SL1500_.jpg"
       ],
       "category": "Motherboard",
       "brand": "MSI"
@@ -2376,11 +2376,11 @@
       "price": 109.99,
       "stock": 25,
       "images": [
-        "https://m.media-amazon.com/images/I/51cI5L-pMpL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51aNGP5reeL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51KDzHYOuEL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51ZN+u23MhL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41nelWXIJ8L._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/51cI5L-pMpL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51aNGP5reeL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51KDzHYOuEL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51ZN+u23MhL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41nelWXIJ8L._AC_SL1500_.jpg"
       ],
       "category": "Motherboard",
       "brand": "Gigabyte"
@@ -2391,11 +2391,11 @@
       "price": 199.99,
       "stock": 12,
       "images": [
-        "https://m.media-amazon.com/images/I/516x0fxZtSL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51b1-KtCAWL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41eaavh36iL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41RivsheuoL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/510TUQgHKSL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/516x0fxZtSL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51b1-KtCAWL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41eaavh36iL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41RivsheuoL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/510TUQgHKSL._AC_SL1500_.jpg"
       ],
       "category": "Motherboard",
       "brand": "ASRock"
@@ -2406,7 +2406,7 @@
       "price": 399.99,
       "stock": 5,
       "images": [
-        "https://m.media-amazon.com/images/I/31mQaCkBsMS._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/31mQaCkBsMS._AC_SL1500_.jpg"
       ],
       "category": "Motherboard",
       "brand": "EVGA"
@@ -2417,11 +2417,11 @@
       "price": 239.99,
       "stock": 15,
       "images": [
-        "https://m.media-amazon.com/images/I/51W55Yc7DbL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51TeYpAzjiL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51nbrb3BadL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41ZCWVXhCHL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/31jCZBiPc1L._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/51W55Yc7DbL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51TeYpAzjiL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51nbrb3BadL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41ZCWVXhCHL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/31jCZBiPc1L._AC_SL1500_.jpg"
       ],
       "category": "Motherboard",
       "brand": "ASUS"
@@ -2432,7 +2432,7 @@
       "price": 159.99,
       "stock": 18,
       "images": [
-        "https://m.media-amazon.com/images/I/413ta3PMG4L._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/413ta3PMG4L._AC_SL1500_.jpg"
       ],
       "category": "Motherboard",
       "brand": "MSI"
@@ -2443,11 +2443,11 @@
       "price": 219.99,
       "stock": 10,
       "images": [
-        "https://m.media-amazon.com/images/I/51HZ7bYOxhL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41Ch+okYhAL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41jUGL27liL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/418KBHJR9qL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/319w8ZPn4fL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/51HZ7bYOxhL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41Ch+okYhAL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41jUGL27liL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/418KBHJR9qL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/319w8ZPn4fL._AC_SL1500_.jpg"
       ],
       "category": "Motherboard",
       "brand": "Gigabyte"
@@ -2458,11 +2458,11 @@
       "price": 149.99,
       "stock": 22,
       "images": [
-        "https://m.media-amazon.com/images/I/41FuX8xFPNL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51m0D2bfnvL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51KPTsjPgOL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41khbd9zmGL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41PQ0bJlJnL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41FuX8xFPNL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51m0D2bfnvL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51KPTsjPgOL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41khbd9zmGL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41PQ0bJlJnL._AC_SL1500_.jpg"
       ],
       "category": "Motherboard",
       "brand": "ASRock"
@@ -2473,7 +2473,7 @@
       "price": 259.99,
       "stock": 7,
       "images": [
-        "https://m.media-amazon.com/images/I/31mQaCkBsMS._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/31mQaCkBsMS._AC_SL1500_.jpg"
       ],
       "category": "Motherboard",
       "brand": "EVGA"
@@ -2484,11 +2484,11 @@
       "price": 189.99,
       "stock": 14,
       "images": [
-        "https://m.media-amazon.com/images/I/41fWoqI9XJL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41wWAfn6myL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41R3PusBF+L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51XgwFW6xWL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41CFbn6Iw1L._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41fWoqI9XJL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41wWAfn6myL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41R3PusBF+L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51XgwFW6xWL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41CFbn6Iw1L._AC_SL1500_.jpg"
       ],
       "category": "Motherboard",
       "brand": "ASUS"
@@ -2499,11 +2499,11 @@
       "price": 299.99,
       "stock": 9,
       "images": [
-        "https://m.media-amazon.com/images/I/51tSR+WZ8kL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41bZZTHLN5L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/414mb+Y30fL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41XMEdFVmfL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/31LgB7VcRNL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/51tSR+WZ8kL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41bZZTHLN5L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/414mb+Y30fL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41XMEdFVmfL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/31LgB7VcRNL._AC_SL1500_.jpg"
       ],
       "category": "Motherboard",
       "brand": "MSI"
@@ -2514,11 +2514,11 @@
       "price": 169.99,
       "stock": 16,
       "images": [
-        "https://m.media-amazon.com/images/I/41jKV7W+mdL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41Q+Rk3WqaL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41Ui6NBPc7L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/512Y6gOSkyL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41KtesAwYrL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41jKV7W+mdL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41Q+Rk3WqaL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41Ui6NBPc7L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/512Y6gOSkyL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41KtesAwYrL._AC_SL1500_.jpg"
       ],
       "category": "Motherboard",
       "brand": "Gigabyte"
@@ -2529,11 +2529,11 @@
       "price": 499.99,
       "stock": 4,
       "images": [
-        "https://m.media-amazon.com/images/I/410tiTowqxL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41XPwvnWCoL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/31DDRjs+QfL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/514tB0lYp5L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51Sz57qbRlL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/410tiTowqxL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41XPwvnWCoL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/31DDRjs+QfL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/514tB0lYp5L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51Sz57qbRlL._AC_SL1500_.jpg"
       ],
       "category": "Motherboard",
       "brand": "ASRock"
@@ -2544,11 +2544,11 @@
       "price": 329.99,
       "stock": 6,
       "images": [
-        "https://m.media-amazon.com/images/I/41jKV7W+mdL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41Q+Rk3WqaL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41Ui6NBPc7L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/512Y6gOSkyL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41KtesAwYrL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41jKV7W+mdL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41Q+Rk3WqaL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41Ui6NBPc7L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/512Y6gOSkyL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41KtesAwYrL._AC_SL1500_.jpg"
       ],
       "category": "Motherboard",
       "brand": "EVGA"
@@ -2559,11 +2559,11 @@
       "price": 399.99,
       "stock": 5,
       "images": [
-        "https://m.media-amazon.com/images/I/31IJtsrUEKL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51UeX5GAhML._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/21JA2IzFUBL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41J5BMOzZfL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41N2Zg3WYCL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/31IJtsrUEKL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51UeX5GAhML._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/21JA2IzFUBL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41J5BMOzZfL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41N2Zg3WYCL._AC_SL1500_.jpg"
       ],
       "category": "Motherboard",
       "brand": "ASUS"
@@ -2574,11 +2574,11 @@
       "price": 349.99,
       "stock": 7,
       "images": [
-        "https://m.media-amazon.com/images/I/41MOH-GcjQL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51xh4puNHLL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/519MPqTHhOL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51h2P9Gl7lL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/413CN4XvisL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/41MOH-GcjQL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51xh4puNHLL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/519MPqTHhOL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51h2P9Gl7lL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/413CN4XvisL._AC_SL1500_.jpg"
       ],
       "category": "Motherboard",
       "brand": "MSI"
@@ -2589,10 +2589,10 @@
       "price": 209.99,
       "stock": 10,
       "images": [
-        "https://m.media-amazon.com/images/I/411pxVVln7L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41EThMPHuSL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41NuWUnkRlL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/31x-hfFAxeL._AC_US40_.jpg",
+        "https://m.media-amazon.com/images/I/411pxVVln7L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41EThMPHuSL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41NuWUnkRlL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/31x-hfFAxeL._AC_SL1500_.jpg",
         "https://m.media-amazon.com/images/I/41cxC56bqQL._AC_SR38,50_.jpg"
       ],
       "category": "Motherboard",
@@ -2604,11 +2604,11 @@
       "price": 119.99,
       "stock": 20,
       "images": [
-        "https://m.media-amazon.com/images/I/516x0fxZtSL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51b1-KtCAWL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41eaavh36iL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41RivsheuoL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/510TUQgHKSL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/516x0fxZtSL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51b1-KtCAWL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41eaavh36iL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41RivsheuoL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/510TUQgHKSL._AC_SL1500_.jpg"
       ],
       "category": "Motherboard",
       "brand": "ASRock"
@@ -2619,11 +2619,11 @@
       "price": 279.99,
       "stock": 8,
       "images": [
-        "https://m.media-amazon.com/images/I/419f2ElfnnL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51K+5rNV20L._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/51m0wnHoYoL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/31JLjjkZHeL._AC_US40_.jpg",
-        "https://m.media-amazon.com/images/I/41q8VVd9agL._AC_US40_.jpg"
+        "https://m.media-amazon.com/images/I/419f2ElfnnL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51K+5rNV20L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/51m0wnHoYoL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/31JLjjkZHeL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41q8VVd9agL._AC_SL1500_.jpg"
       ],
       "category": "Motherboard",
       "brand": "EVGA"

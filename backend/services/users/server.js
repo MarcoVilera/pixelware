@@ -6,7 +6,7 @@ const app = express()
 app.use(json())
 app.use(
     cors({
-        origin: '*',
+        origin: 'http://localhost:5173',
         credentials: true, // Permite cookies
     })
 )

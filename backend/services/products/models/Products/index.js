@@ -14,6 +14,8 @@ const productSchema = new Schema({
         totalRatings: { type: Number, default: 0 }, // Cantidad de valoraciones
         sumRatings: { type: Number, default: 0 }, // Suma acumulada
     },
+    createat: { type: Date, default: Date.now },
+    updateat: { type: Date, default: Date.now },
 })
 productSchema.index(
     {

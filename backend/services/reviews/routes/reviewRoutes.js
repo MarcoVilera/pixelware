@@ -92,3 +92,5 @@ reviewRouter.patch('/:id/vote', async (req, res) => {
         })
     }
 })
+
+export default reviewRouter

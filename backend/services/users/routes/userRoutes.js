@@ -50,7 +50,7 @@ userRouter.post('/login', async (req, res) => {
         res.json({
             success: true,
             message: 'Login exitoso',
-            user: { id: user.id, email: user.email },
+            user: { id: user.id, name: user.name, email: user.email },
         })
     } catch (error) {
         res.status(500).json({ error: 'Error al iniciar sesión', error })

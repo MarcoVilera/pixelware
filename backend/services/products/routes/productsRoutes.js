@@ -67,6 +67,19 @@ productRouter.get('/', async (req, res) => {
         })
     }
 })
+// Obtener todas las categorias
+productRouter.get('/categories', async (req, res) => {
+    try {
+        const categories = await Category.find()
+        res.json({ categories })
+    } catch (error) {
+        res.status(500).json({
+            error: 'Error al obtener categorías',
+            details: error.message,
+        })
+    }
+})
+
 // Obtener un producto por su id
 productRouter.get('/:id', async (req, res) => {
     try {
@@ -84,6 +97,7 @@ productRouter.get('/:id', async (req, res) => {
             product: {
                 ...product.toObject(),
                 rating: product.rating.average.toFixed(1), // Formatear a 1 decimal
+                totalRatings: product.rating.totalRatings,
             },
         })
     } catch (error) {
